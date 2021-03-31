@@ -1,1 +1,85 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+excerpt_separator: <!--more-->
+title: Intune.Training Blog
+email: blog@intune.training
+description: >- # this means to ignore newlines until "baseurl:"
+  Intune.Training YouTube Channel Supplemental Blog
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://blog.Intune.Training" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: IntuneTraining
+github_username:  IntuneTraining
+permalink: /blog/:title.html
+disqus_shortname: 
+google_analytics: 
+fixed_navbar: top
+theme_color: '#333333'
+#permalink: /:year/:month:/:title.html
+# Build settings
+markdown: kramdown
+#theme: minima
+paginate: 5
 theme: jekyll-theme-slate
+remote_theme: 
+plugins:
+  - jekyll-feed
+  - jekyll-gist  
+  - jekyll-remote-theme
+  - jekyll-redirect-from
+  - jekyll-paginate
+  
+hero_image: /assets/images/foxdeployMOUNTAINTOP_hero.webp
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      author: "Intune.Training"
+      layout: post
+      hero_image: 
+      show_sidebar: true
+      hero_link: "blog.Intune.Training" 
+
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      author: "Intune.Training"
+      layout: post
+      hero_image: 
+      show_sidebar: true
+      
+exclude: [node_modules]
+
+# excluding for now b/c I'm noot sure if setting this returns this header for all values or not
+# webrick:
+#   headers:
+#     Cache-Control: max-age=604800;
+    
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
