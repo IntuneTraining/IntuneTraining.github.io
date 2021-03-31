@@ -2,7 +2,7 @@
 layout: post
 title: "S02E28 - First Look at Win32 Application Supersedence in Microsoft Intune - (I.T)"
 date: 2021-03-14 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * 00:00 - Intro
  * 02:12 - S01E07 - Publishing Win32 Applications using Microsoft Intune

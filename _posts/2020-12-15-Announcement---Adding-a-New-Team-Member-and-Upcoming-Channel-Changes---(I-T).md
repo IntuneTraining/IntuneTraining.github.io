@@ -2,7 +2,7 @@
 layout: post
 title: "Announcement - Adding a New Team Member and Upcoming Channel Changes - (I.T)"
 date: 2020-12-15 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * We are excited to welcome Jake Shackelford to the Intune.Training team! We also discuss channel format changes to help our audience find the right content for their learning styles.
  * 

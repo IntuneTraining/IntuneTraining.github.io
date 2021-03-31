@@ -2,7 +2,7 @@
 layout: post
 title: "S02E25 - Scope Tags, Scope Groups & Roles - Securing Intune w/ Role Based Access Control - (I.T)"
 date: 2021-02-16 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * In this video the guys discuss role based access control and securing the portal with custom roles with scope tags.
  * 

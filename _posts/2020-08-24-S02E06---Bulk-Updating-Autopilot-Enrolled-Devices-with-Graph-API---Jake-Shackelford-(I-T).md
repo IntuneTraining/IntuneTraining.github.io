@@ -2,7 +2,7 @@
 layout: post
 title: "S02E06 - Bulk Updating Autopilot Enrolled Devices with Graph API - Jake Shackelford (I.T)"
 date: 2020-08-24 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * 00:00 - Intro
  * 00:20 - Jack Shackelford introduction

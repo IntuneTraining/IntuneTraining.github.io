@@ -2,7 +2,7 @@
 layout: post
 title: "S02E07 - Manage Android Devices with Intune - A Comprehensive Guide - Leon Ashton-Leatherland  (I.T)"
 date: 2020-09-01 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * 00:00 - Intro
  * 04:28 - Leon's IT Vlog

@@ -2,7 +2,7 @@
 layout: post
 title: "S01E10 - Configuring the Google Play Store Connector in Microsoft Intune - (I.T)"
 date: 2019-09-09 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * 00:00 - Intro
  * 01:06 - Connect your Intune account to your Managed Google Play account

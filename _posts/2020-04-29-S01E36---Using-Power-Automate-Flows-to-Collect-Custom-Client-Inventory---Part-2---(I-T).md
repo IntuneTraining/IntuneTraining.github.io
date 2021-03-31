@@ -2,7 +2,7 @@
 layout: post
 title: "S01E36 - Using Power Automate Flows to Collect Custom Client Inventory - Part 2 - (I.T)"
 date: 2020-04-29 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * 00:00 - Intro
  * 03:10 - Recap of episode 34

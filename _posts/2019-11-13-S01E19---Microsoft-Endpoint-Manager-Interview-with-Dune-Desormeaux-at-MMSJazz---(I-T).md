@@ -2,7 +2,7 @@
 layout: post
 title: "S01E19 - Microsoft Endpoint Manager Interview with Dune Desormeaux at MMSJazz - (I.T)"
 date: 2019-11-13 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * Steve and Adam have a chat with Dune Desormeaux, Program Manager for Microsoft Endpoint Configuration Manager, at MMSJazz. Sorry, no demos, just a chat with Dune about how the new Microsoft Endpoint Manager changes will impact the future of Intune and ConfigMgr.
  * 

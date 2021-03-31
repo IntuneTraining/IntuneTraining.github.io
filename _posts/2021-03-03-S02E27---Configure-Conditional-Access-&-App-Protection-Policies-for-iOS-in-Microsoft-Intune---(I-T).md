@@ -2,7 +2,7 @@
 layout: post
 title: "S02E27 - Configure Conditional Access & App Protection Policies for iOS in Microsoft Intune - (I.T)"
 date: 2021-03-03 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * 00:00 - Intro
  * 01:30 - S01E08 - Configuring Conditional Access in Microsoft Intune

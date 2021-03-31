@@ -2,7 +2,7 @@
 layout: post
 title: "S01E44 - Rapid Hyper-V Provisioning for Autopilot Testing with Intune.HV.Tools - (I.T)"
 date: 2020-06-30 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * 00:00 - Intro 
  * 01:07 - Intune.HV.Tools Module

@@ -2,7 +2,7 @@
 layout: post
 title: "S01E33 - Configuring VPN Profiles with Microsoft Intune - (I.T)"
 date: 2020-03-30 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * 00:00 - Intro
  * 03:30 - Creating VPN configuration profile

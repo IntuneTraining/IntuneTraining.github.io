@@ -2,7 +2,7 @@
 layout: post
 title: "S01E35 - New Features in Microsoft Endpoint Configuration Manger 2002 - (I.T)"
 date: 2020-04-21 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * Steve and Adam discuss try to keep it together as they discuss new cloud features for Microsoft Endpoint Configuration Manger 2002 to help extend your On-Premises infrastructure into Intune.
  * 

@@ -2,7 +2,7 @@
 layout: post
 title: "S01E11 - Intune Client Troubleshooting Basics - (I.T)"
 date: 2019-09-16 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * 00:00 - Intro
  * 03:05 - See device details in Intune

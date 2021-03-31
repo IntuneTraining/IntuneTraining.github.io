@@ -2,7 +2,7 @@
 layout: post
 title: "S01E07 - Publishing Win32 Applications using Microsoft Intune - (I.T)"
 date: 2019-08-20 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * 00:00 - Intro
  * 01:03 - Sneak peek: Public preview of Win32 application deployment using Microsoft Intune

@@ -2,7 +2,7 @@
 layout: post
 title: "S02E22 - How to Configure Universal Print in Microsoft Azure - (I.T)"
 date: 2021-01-25 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * Special thanks to Jaap Brasser for making an appearance [https://twitter.com/Jaap_Brasser].
  * 

@@ -19,7 +19,7 @@ $Header = @"
 layout: post
 title: `"$($PostTitle)`"
 date: $($PostDate) 00:00:00 -0000
-categories: $content[0].Tags.ToString()
+categories:
 ---
 "@
     

@@ -2,7 +2,7 @@
 layout: post
 title: "Off The Cuff - Customer Experience, Women in Tech, MVP Program, Getting Involved - Cathy Moya (I.T)"
 date: 2020-08-18 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * 00:00 - Intro
  * 00:31 - Cathy Moya introduction

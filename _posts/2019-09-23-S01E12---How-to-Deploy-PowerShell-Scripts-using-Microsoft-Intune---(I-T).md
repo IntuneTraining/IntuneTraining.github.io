@@ -2,7 +2,7 @@
 layout: post
 title: "S01E12 - How to Deploy PowerShell Scripts using Microsoft Intune - (I.T)"
 date: 2019-09-23 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * 00:00 - Intro
  * 00:53 - Use PowerShell scripts on Windows 10 devices in Intune

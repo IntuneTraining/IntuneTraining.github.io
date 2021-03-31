@@ -2,7 +2,7 @@
 layout: post
 title: "Deploy and Manage Edge in ConfigMgr and Intune with Donna Ryan - 2021 Browser Summit by CSMUG"
 date: 2021-02-13 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * This is a recording from the Charlotte Systems Management User Group Browser Summit held on January 29, 2021.
  * 

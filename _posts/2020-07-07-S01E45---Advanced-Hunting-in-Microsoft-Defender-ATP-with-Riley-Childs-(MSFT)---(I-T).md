@@ -2,7 +2,7 @@
 layout: post
 title: "S01E45 - Advanced Hunting in Microsoft Defender ATP with Riley Childs (MSFT) - (I.T)"
 date: 2020-07-07 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * 00:00 - Intro
  * 00:31 - Riley Childs Introduction

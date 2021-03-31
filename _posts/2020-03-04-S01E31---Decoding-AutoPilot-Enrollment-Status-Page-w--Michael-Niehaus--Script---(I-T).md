@@ -2,7 +2,7 @@
 layout: post
 title: "S01E31 - Decoding AutoPilot Enrollment Status Page w/ Michael Niehaus' Script - (I.T)"
 date: 2020-03-04 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * 00:00 - Intro
  * 01:11 - Explanation of the script

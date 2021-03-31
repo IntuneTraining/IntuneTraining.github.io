@@ -2,7 +2,7 @@
 layout: post
 title: "Intune.Training - One Year Anniversary/10,000 Subscriber Celebration - Looking back on the past year"
 date: 2020-07-14 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * 00:00 - Intro
  * 03:32 - History

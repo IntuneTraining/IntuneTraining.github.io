@@ -2,7 +2,7 @@
 layout: post
 title: "S01E23 - Build Win32 apps Using PowerShell, VSCode Tasks & Intune Graph - (I.T)"
 date: 2019-12-10 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * 00:00 - Intro
  * 04:58 - app.yaml file

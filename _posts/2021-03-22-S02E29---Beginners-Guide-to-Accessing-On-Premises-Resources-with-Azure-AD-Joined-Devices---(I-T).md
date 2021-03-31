@@ -2,7 +2,7 @@
 layout: post
 title: "S02E29 - Beginners Guide to Accessing On-Premises Resources with Azure AD Joined Devices - (I.T)"
 date: 2021-03-22 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * Sorry about Adam's keyboard noise and yes, this could be a very short video but we felt like there are people who could use a more in-depth discussion.
  * 

@@ -2,7 +2,7 @@
 layout: post
 title: "S02E24 - Advanced Options for Custom Logon Scripts for Microsoft Intune Managed Devices - (I.T)"
 date: 2021-02-09 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * Steve and Ben revisit logon scripts and provide more customizable options.
  * 

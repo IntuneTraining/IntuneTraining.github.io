@@ -2,7 +2,7 @@
 layout: post
 title: "S01E39 - Building USB Provisioning Media for Quick OS Rebuilds for Intune Environments - (I.T)"
 date: 2020-05-26 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * 00:00 - Intro
  * 02:37 - Intune.USB.Creator Module

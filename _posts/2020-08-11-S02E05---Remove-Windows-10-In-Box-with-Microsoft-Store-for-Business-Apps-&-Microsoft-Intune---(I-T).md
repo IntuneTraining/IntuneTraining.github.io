@@ -2,7 +2,7 @@
 layout: post
 title: "S02E05 - Remove Windows 10 In-Box with Microsoft Store for Business Apps & Microsoft Intune - (I.T)"
 date: 2020-08-11 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * 00:00 - Intro
  * 00:41 - Blog - Remove Windows 10 In-Box Apps with ConfigMgr or Intune and the Microsoft Store for Business

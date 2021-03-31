@@ -2,7 +2,7 @@
 layout: post
 title: "S02E16 - Testing out the Microsoft 365 Network Connectivity Test Tool - (I.T)"
 date: 2020-12-01 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * 00:00 - Intro
  * 04:22 - Microsoft 365 network connectivity test

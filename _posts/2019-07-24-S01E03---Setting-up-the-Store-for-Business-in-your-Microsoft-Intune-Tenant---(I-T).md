@@ -2,7 +2,7 @@
 layout: post
 title: "S01E03 - Setting up the Store for Business in your Microsoft Intune Tenant - (I.T)"
 date: 2019-07-24 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * Steve and Adam discuss how to configure and manage apps using the Microsoft Store for Business.
  * 

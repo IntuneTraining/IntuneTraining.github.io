@@ -2,7 +2,7 @@
 layout: post
 title: "S01E06 - Configuring Modern Roaming Profiles with Microsoft Intune - (I.T)"
 date: 2019-08-13 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * 00:00 - Intro
  * 01:15 - Creating ADMX-backed policies

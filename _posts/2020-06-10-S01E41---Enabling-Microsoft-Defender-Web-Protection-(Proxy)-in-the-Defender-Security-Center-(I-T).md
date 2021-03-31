@@ -2,7 +2,7 @@
 layout: post
 title: "S01E41 - Enabling Microsoft Defender Web Protection (Proxy) in the Defender Security Center (I.T)"
 date: 2020-06-10 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * Steve and Ben drag Adam trough more security stuff. Adam is thrilled.
  * 

@@ -2,7 +2,7 @@
 layout: post
 title: "S01E22 - Configuring AppLocker Policies and Advanced Hunting - (I.T)"
 date: 2020-01-15 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * This is a re-shoot of episode 22, so sorry it's out of order...
  * 

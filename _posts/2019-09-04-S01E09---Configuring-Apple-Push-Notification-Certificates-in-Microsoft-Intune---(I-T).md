@@ -2,7 +2,7 @@
 layout: post
 title: "S01E09 - Configuring Apple Push Notification Certificates in Microsoft Intune - (I.T)"
 date: 2019-09-04 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * 00:00 - Intro
  * 01:33 - Get an Apple MDM push certificate

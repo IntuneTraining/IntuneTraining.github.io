@@ -2,7 +2,7 @@
 layout: post
 title: "Off The Cuff - Managing EDU devices with Microsoft Intune - With Doug Wilson (I.T)"
 date: 2020-04-15 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * MVP Doug Wilson joins Adam to have an impromptu discussion about managing EDU devices with Microsoft Intune.
  * 

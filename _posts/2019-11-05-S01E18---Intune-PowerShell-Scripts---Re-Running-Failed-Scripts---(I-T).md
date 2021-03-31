@@ -2,7 +2,7 @@
 layout: post
 title: "S01E18 - Intune PowerShell Scripts - Re-Running Failed Scripts - (I.T)"
 date: 2019-11-05 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * In this episode, Ben Reader joins Adam to discuss more advanced PowerShell scripting within Microsoft Intune.  (Sorry again for the choppy audio. We just can't win!)
  * 

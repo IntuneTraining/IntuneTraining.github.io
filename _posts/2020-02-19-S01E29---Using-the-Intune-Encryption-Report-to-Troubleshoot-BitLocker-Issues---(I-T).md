@@ -2,7 +2,7 @@
 layout: post
 title: "S01E29 - Using the Intune Encryption Report to Troubleshoot BitLocker Issues - (I.T)"
 date: 2020-02-19 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * 00:00 - Intro
  * 01:13 - Encryption report intro

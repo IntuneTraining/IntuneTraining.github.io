@@ -2,7 +2,7 @@
 layout: post
 title: "S02E08 - How to Customize the Company Portal app, website and Intune App in Microsoft Intune - (I.T)"
 date: 2020-09-16 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * 00:00 - Intro
  * 01:10 - Azure AD company branding

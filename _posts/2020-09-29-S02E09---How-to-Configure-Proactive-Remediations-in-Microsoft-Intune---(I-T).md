@@ -2,7 +2,7 @@
 layout: post
 title: "S02E09 - How to Configure Proactive Remediations in Microsoft Intune - (I.T)"
 date: 2020-09-29 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * Note - Adam forgot to edit out a section where we were waiting to device syncs to happen. See timestamps below for details.
  * 

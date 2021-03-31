@@ -2,7 +2,7 @@
 layout: post
 title: "S01E17 - Intune PowerShell Scripts - Debugging and Troubleshooting - (I.T)"
 date: 2019-10-29 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * 00:00 - Intro
  * 00:32 - Ben Reader's introduction

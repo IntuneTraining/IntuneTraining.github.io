@@ -2,7 +2,7 @@
 layout: post
 title: "S01E16 - How to Enroll Android Devices into Microsoft Intune - (I.T)"
 date: 2019-10-21 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * The audio was bad in this one. Sorry. Check out our new video on Androids here:
  * [https://www.youtube.com/watch?v=tQ4qt-4CGRY]

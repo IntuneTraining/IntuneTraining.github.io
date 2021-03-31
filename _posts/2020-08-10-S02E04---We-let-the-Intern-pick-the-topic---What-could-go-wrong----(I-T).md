@@ -2,7 +2,7 @@
 layout: post
 title: "S02E04 - We let the Intern pick the topic - What could go wrong? - (I.T)"
 date: 2020-08-10 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * 0:00 Intro
  * 0:42 Ben's Important Demo

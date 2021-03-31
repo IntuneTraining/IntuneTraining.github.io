@@ -2,7 +2,7 @@
 layout: post
 title: "S01E13 - Enable Remote Control for Microsoft Intune devices using TeamViewer - (I.T)"
 date: 2019-10-01 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * 00:00 - Intro
  * 01:16 - Use TeamViewer to remotely administer Intune devices

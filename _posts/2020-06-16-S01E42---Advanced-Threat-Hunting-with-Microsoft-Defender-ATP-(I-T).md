@@ -2,7 +2,7 @@
 layout: post
 title: "S01E42 - Advanced Threat Hunting with Microsoft Defender ATP (I.T)"
 date: 2020-06-16 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * 00:00 - Intro
  * 01:08 - Microsoft Defender Security Center discussion

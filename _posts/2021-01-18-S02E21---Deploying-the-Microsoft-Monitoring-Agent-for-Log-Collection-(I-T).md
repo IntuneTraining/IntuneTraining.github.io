@@ -2,7 +2,7 @@
 layout: post
 title: "S02E21 - Deploying the Microsoft Monitoring Agent for Log Collection (I.T)"
 date: 2021-01-18 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * Please Refer to the blog post below as there was an error at 3:17 on packaging the MMA agent. The rest of the video is still valid.
  * 

@@ -2,7 +2,7 @@
 layout: post
 title: "S01E15 - How to Enroll Apple iOS Devices into Microsoft Intune - (I.T)"
 date: 2019-10-14 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * 00:00 - Intro
  * 00:36 - S01E09 - Configuring Apple Push Notification Certificates in Microsoft Intune

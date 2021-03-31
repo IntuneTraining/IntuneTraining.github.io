@@ -2,7 +2,7 @@
 layout: post
 title: "S01E30 - Configuring Windows 10 Feature Update Policies in Intune - (I.T)"
 date: 2020-02-25 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * 00:34 - Feature update intro
    - [https://docs.microsoft.com/intune/protect/windows-update-for-business-configure#windows-10-feature-updates]

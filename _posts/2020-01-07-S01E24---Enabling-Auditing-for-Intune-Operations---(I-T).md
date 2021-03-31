@@ -2,7 +2,7 @@
 layout: post
 title: "S01E24 - Enabling Auditing for Intune Operations - (I.T)"
 date: 2020-01-07 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * Steve and Adam discuss how to connect a Log Analytics workspace to your Intune tenant to enable logging of Intune operations.
  * 

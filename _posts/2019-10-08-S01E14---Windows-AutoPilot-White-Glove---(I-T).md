@@ -2,7 +2,7 @@
 layout: post
 title: "S01E14 - Windows AutoPilot White Glove - (I.T)"
 date: 2019-10-08 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * 00:00 - Intro
  * 01:43 - Windows Autopilot for white glove deployment

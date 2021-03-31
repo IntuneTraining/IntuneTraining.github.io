@@ -2,7 +2,7 @@
 layout: post
 title: "S02E01 - Easily Create Power BI Reports with the Intune Data Warehouse - (I.T)"
 date: 2020-07-21 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * 00:00 - Intro
  * 01:11 - Integrating Intune data warehouse into PowerBI

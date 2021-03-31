@@ -2,7 +2,7 @@
 layout: post
 title: "Introduction to Windows 10 Feature Updates - Enterprise Feature Update Management"
 date: 2020-09-01 00:00:00 -0000
-categories:                                                                                                  [0].Tags.ToString()
+categories:
 ---
  * Slides from the event can be found here:
  * [https://github.com/CSMUG/Meeting-Content/tree/master/EnterpriseFeatureUpdateAug2020]
