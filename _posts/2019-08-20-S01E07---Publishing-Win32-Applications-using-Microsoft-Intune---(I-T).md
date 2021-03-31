@@ -1,0 +1,43 @@
+﻿---
+layout: post
+title: "S01E07 - Publishing Win32 Applications using Microsoft Intune - (I.T)"
+date: 2019-08-20 00:00:00 -0000
+categories:                                                                                                  [0].Tags.ToString()
+---
+ * 00:00 - Intro
+ * 01:03 - Sneak peek: Public preview of Win32 application deployment using Microsoft Intune
+   - [https://techcommunity.microsoft.com/t5/Enterprise-Mobility-Security/Sneak-peek-Public-preview-of-Win32-application-deployment-using/ba-p/264460]
+ * 02:31 - Intune Standalone - Win32 app management
+   -  [https://docs.microsoft.com/intune/apps/apps-win32-app-management]
+ * 02:47 - Microsoft Mathematics 4.0
+   - [https://www.microsoft.com/download/details.aspx?id=15702]
+ * 03:40 - Microsoft Win32 Content Prep Tool
+   - [https://docs.microsoft.com/mem/intune/apps/apps-win32-app-management#prepare-the-win32-app-content-for-upload]
+ * 15:27 - Add a Win32 App to Intune
+   - [https://docs.microsoft.com/mem/intune/apps/apps-win32-app-management#add-a-win32-app-to-intune]
+ * 26:01 - Troubleshoot Win32 app issues
+   -  [https://docs.microsoft.com/intune/apps/apps-win32-app-management#troubleshoot-win32-app-issues]
+ * 37:56 - Discussion
+ * 45:30 - Wrapping up
+ * 
+ * Here’s a companion blog where we talk about what went wrong with our command line. 
+ * [https://www.asquaredozen.com/2019/08/21/troubleshooting-win32-app-installs-in-intune/]
+ * 
+ * Visit our websites and social media for more or to get in touch with us
+ * 
+ * Steve Hosking - Microsoft EM+S MVP
+ * [https://www.twitter.com/OnPremCloudGuy]
+ * [http://steven.hosking.com.au/]
+ * [https://mvp.microsoft.com/en-us/PublicProfile/5002537?fullName=Steven%20Hosking]
+ * [https://github.com/onpremcloudguy]
+ * 
+ * Adam Gross
+ * [https://www.twitter.com/AdamGrossTX]
+ * [https://www.asquaredozen.com]
+ * [https://mvp.microsoft.com/en-us/PublicProfile/5003519?fullName=Adam%20Gross]
+ * [https://github.com/AdamGrossTX]
+ * 
+ * Ben Reader
+ * [https://twitter.com/powers_hell]
+ * [https://www.powers-hell.com/]
+ * [https://github.com/tabs-not-spaces] Visit our websites and social media for more or to get in touch with us
