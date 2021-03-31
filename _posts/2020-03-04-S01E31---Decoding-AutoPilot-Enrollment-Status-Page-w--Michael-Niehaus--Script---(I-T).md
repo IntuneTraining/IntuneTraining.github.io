@@ -4,6 +4,7 @@ title: "S01E31 - Decoding AutoPilot Enrollment Status Page w/ Michael Niehaus' S
 date: 2020-03-04 00:00:00 -0000
 categories:
 ---
+
  * 00:00 - Intro
  * 01:11 - Explanation of the script
  * 05:54 - Connect to a VM using PowerShell Direct

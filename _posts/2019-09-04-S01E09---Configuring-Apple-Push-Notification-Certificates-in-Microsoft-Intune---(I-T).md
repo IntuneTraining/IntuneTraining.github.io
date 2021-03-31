@@ -4,6 +4,7 @@ title: "S01E09 - Configuring Apple Push Notification Certificates in Microsoft I
 date: 2019-09-04 00:00:00 -0000
 categories:
 ---
+
  * 00:00 - Intro
  * 01:33 - Get an Apple MDM push certificate
    -  [https://docs.microsoft.com/mem/intune/enrollment/apple-mdm-push-certificate-get]

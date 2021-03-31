@@ -4,6 +4,7 @@ title: "S02E18 - How to Map Network Drives on Microsoft Intune Devices - (I.T)"
 date: 2020-12-16 00:00:00 -0000
 categories:
 ---
+
  * Jake's first solo video shows you one option for mapping network drives for Microsoft Intune devices.
  * 
  * Special thanks to [https://twitter.com/nicolonsky] For the utility! 

@@ -4,6 +4,7 @@ title: "S01E32 - Automating the Syncing of SharePoint Team Site Libraries - (I.T
 date: 2020-03-13 00:00:00 -0000
 categories:
 ---
+
  * Steve and Ben discuss their PowerShell solution to configure SharePoint team site libraries to sync automatically in OneDrive.
  * 
  * 00:00 - Intro

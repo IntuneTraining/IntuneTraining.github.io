@@ -4,6 +4,7 @@ title: "S01E29 - Using the Intune Encryption Report to Troubleshoot BitLocker Is
 date: 2020-02-19 00:00:00 -0000
 categories:
 ---
+
  * 00:00 - Intro
  * 01:13 - Encryption report intro
    - [https://docs.microsoft.com/intune/protect/encryption-monitor]

@@ -4,6 +4,7 @@ title: "S02E14 - How to Use Android Studio to Test Virtual Android Devices with 
 date: 2020-11-10 00:00:00 -0000
 categories:
 ---
+
  * Check out this great write-up by Timmy Andersson
  * [https://timmyit.com/2021/01/25/android-emulation-for-endpoint-manager-admins/]
  * 

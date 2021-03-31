@@ -4,6 +4,7 @@ title: "S02E06 - Bulk Updating Autopilot Enrolled Devices with Graph API - Jake 
 date: 2020-08-24 00:00:00 -0000
 categories:
 ---
+
  * 00:00 - Intro
  * 00:20 - Jack Shackelford introduction
  * 01:55 - Updating group tags

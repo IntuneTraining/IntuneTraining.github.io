@@ -4,6 +4,7 @@ title: "S01E25 - Deploying and Configuring the New Edge Browser with Microsoft I
 date: 2020-01-21 00:00:00 -0000
 categories:
 ---
+
  * Steve and Adam discuss how to deploy the newly released Microsoft Edge browser and go over the basics of configuration using ADMX backed templates.
  * 
  * 00:00 - Intro

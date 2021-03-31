@@ -4,6 +4,7 @@ title: "Off The Cuff - Customer Experience, Women in Tech, MVP Program, Getting 
 date: 2020-08-18 00:00:00 -0000
 categories:
 ---
+
  * 00:00 - Intro
  * 00:31 - Cathy Moya introduction
  * 05:32 - MVP Program

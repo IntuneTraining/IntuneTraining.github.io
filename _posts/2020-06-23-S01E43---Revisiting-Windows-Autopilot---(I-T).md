@@ -4,6 +4,7 @@ title: "S01E43 - Revisiting Windows Autopilot - (I.T)"
 date: 2020-06-23 00:00:00 -0000
 categories:
 ---
+
  * 00:00 - Intro
  * 01:00 - Revisiting Autopilot
  * 03:46 - Texas System Management User Groups Unite 2020

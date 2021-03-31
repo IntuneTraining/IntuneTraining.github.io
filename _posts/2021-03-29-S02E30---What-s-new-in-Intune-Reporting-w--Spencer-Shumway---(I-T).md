@@ -4,6 +4,7 @@ title: "S02E30 - What's new in Intune Reporting w/ Spencer Shumway - (I.T)"
 date: 2021-03-29 00:00:00 -0000
 categories:
 ---
+
  * 00:00 - Intro
  * 00:30 - Spencer Shumway introduction
    - [https://twitter.com/spencershum]

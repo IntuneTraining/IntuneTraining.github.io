@@ -4,6 +4,7 @@ title: "Security and Microsoft Edge with Colleen Williams - 2021 Browser Summit 
 date: 2021-02-13 00:00:00 -0000
 categories:
 ---
+
  * This is a recording from the Charlotte Systems Management User Group Browser Summit held on January 29, 2021.
  * 
  * [https://www.meetup.com/CLT-System-Management-User-Group/events/274553206/]

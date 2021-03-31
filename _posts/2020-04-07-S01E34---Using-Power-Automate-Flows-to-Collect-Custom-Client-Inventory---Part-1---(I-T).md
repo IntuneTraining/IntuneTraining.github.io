@@ -4,6 +4,7 @@ title: "S01E34 - Using Power Automate Flows to Collect Custom Client Inventory -
 date: 2020-04-07 00:00:00 -0000
 categories:
 ---
+
  * Steve and Ben build a custom Power Automate flow to collect custom client inventory into Azure Table storage.
  * 
  * 00:00 - Intro

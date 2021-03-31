@@ -4,6 +4,7 @@ title: "S01E08 - Configuring Conditional Access in Microsoft Intune - (I.T)"
 date: 2019-08-27 00:00:00 -0000
 categories:
 ---
+
  * 00:00 - Intro
  * 01:14 - Conditional Access discussion
    - [https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview]

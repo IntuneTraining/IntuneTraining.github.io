@@ -4,6 +4,7 @@ title: "S02E03 - Enterprise App Management and Patching with Justin Chalfant and
 date: 2020-08-04 00:00:00 -0000
 categories:
 ---
+
  * 00:00 -  Intro
  * 04:05 - Challenges around third party applications 
  * 11:10 - PMPC transition from ConfigMgr to Intune application packaging 

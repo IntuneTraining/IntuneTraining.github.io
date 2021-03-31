@@ -4,6 +4,7 @@ title: "S02E20 - How to Import Microsoft Defender Firewall Rules into Microsoft 
 date: 2021-01-13 00:00:00 -0000
 categories:
 ---
+
  * In this video the guys discuss the migrating Microsoft Defender Firewall rules from Group Policy to Microsoft Intune. They cover the basics of using Endpoint Security to set up the basic firewall policy then demo a script that will import configured firewall rules directly into Intune.
  * 
  * 00:00 - Intro

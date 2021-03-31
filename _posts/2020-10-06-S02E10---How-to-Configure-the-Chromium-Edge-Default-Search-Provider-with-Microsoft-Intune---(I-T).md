@@ -4,6 +4,7 @@ title: "S02E10 - How to Configure the Chromium Edge Default Search Provider with
 date: 2020-10-06 00:00:00 -0000
 categories:
 ---
+
  * 0:00 Intro
  * 02:44 - S01E25 - Deploying and Configuring the New Edge Browser with Intune
    -  [https://youtu.be/fhvkg8EA8x8]

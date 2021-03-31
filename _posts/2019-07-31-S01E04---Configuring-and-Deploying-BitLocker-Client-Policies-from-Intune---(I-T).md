@@ -4,6 +4,7 @@ title: "S01E04 - Configuring and Deploying BitLocker Client Policies from Intune
 date: 2019-07-31 00:00:00 -0000
 categories:
 ---
+
  * Steve and Adam discuss how to configure and deploy BitLocker client policies and set the default wallpaper from Intune.
  * 
  * 00:00 - Intro

@@ -4,6 +4,7 @@ title: "Microsoft Endpoint Manager MVP RoundTable - Feature Updates, AutoPilot, 
 date: 2020-03-24 00:00:00 -0000
 categories:
 ---
+
  * At the end of the 2020 MVP Summit, which was held virtually this year due to the Corona Virus Pandemic, we held an impromptu MVP and MEM Team roundtable. We had no real plan other than just chat about our experiences with managing ConfigMgr and Intune in the real world. There aren't any demos - we just talk about topics such as Feature Updates in Intune, AutoPilot, Security, Customer needs and more. We hope to host more if these in the future (with a bit more planning I hope), so let us know how you like this and what you'd like to see in the future.
  * 
  * We had about 30 folks on the call, too many to list, but here's how you can find the current list of Microsoft Enterprise Mobility MVPs.

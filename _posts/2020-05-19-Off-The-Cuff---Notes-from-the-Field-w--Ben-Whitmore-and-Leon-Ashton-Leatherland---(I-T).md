@@ -4,6 +4,7 @@ title: "Off The Cuff - Notes from the Field w/ Ben Whitmore and Leon Ashton-Leat
 date: 2020-05-19 00:00:00 -0000
 categories:
 ---
+
  * Join Steve and Adam as they chat with Ben and Leon from the UK about their real world experiences with managing Intune. Note - there's no demo content, so this is great episode for background listening.
  * 
  * 00:00 - Intro

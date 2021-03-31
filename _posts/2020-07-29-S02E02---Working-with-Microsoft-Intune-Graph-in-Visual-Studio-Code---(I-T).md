@@ -4,6 +4,7 @@ title: "S02E02 - Working with Microsoft Intune Graph in Visual Studio Code - (I.
 date: 2020-07-29 00:00:00 -0000
 categories:
 ---
+
  * 00:00 - Intro
  * 02:29 - REST Client VS Code extension
  * 03:17 - GitHub repository

@@ -4,6 +4,7 @@ title: "S02E17 - Microsoft Intune and Autopilot Quick Start Guide (2020 Edition)
 date: 2020-12-08 00:00:00 -0000
 categories:
 ---
+
  * In this video, our first video [https://youtu.be/OkeUN-tdfqs] and show how to build a new Intune tenant and get started with Windows Autopilot in under an hour. This video is designed as a quick start guide. Watch our other videos for more in-depth discussions.
  * 
  * S01E01 - Setting up your Microsoft Intune Tenant (I.T)

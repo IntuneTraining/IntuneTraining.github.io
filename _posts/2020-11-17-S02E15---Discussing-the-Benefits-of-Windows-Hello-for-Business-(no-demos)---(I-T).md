@@ -4,6 +4,7 @@ title: "S02E15 - Discussing the Benefits of Windows Hello for Business (no demos
 date: 2020-11-17 00:00:00 -0000
 categories:
 ---
+
  * The guys have a discussion about Windows Hello for Business and how it can provide secure "Next Gen" credentials for your Windows devices.
  * 
  * 00:00 - Intro

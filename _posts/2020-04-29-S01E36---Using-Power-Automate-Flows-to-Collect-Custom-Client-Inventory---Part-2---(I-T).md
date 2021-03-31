@@ -4,6 +4,7 @@ title: "S01E36 - Using Power Automate Flows to Collect Custom Client Inventory -
 date: 2020-04-29 00:00:00 -0000
 categories:
 ---
+
  * 00:00 - Intro
  * 03:10 - Recap of episode 34
    -  [https://youtu.be/MVyGn35zoT4]

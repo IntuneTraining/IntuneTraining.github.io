@@ -4,6 +4,7 @@ title: "S01E38 - Advanced AutoPilot Troubleshooting with Michael Niehaus - (I.T)
 date: 2020-05-13 00:00:00 -0000
 categories:
 ---
+
  * Our special guest Michael Niehaus from Microsoft joins the guys for advanced AutoPilot troubleshooting. We also talk about customer challenges and product direction.
  * 
  * 00:00 - Intro

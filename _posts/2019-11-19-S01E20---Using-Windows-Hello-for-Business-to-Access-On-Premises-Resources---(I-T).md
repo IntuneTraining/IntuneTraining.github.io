@@ -4,6 +4,7 @@ title: "S01E20 - Using Windows Hello for Business to Access On-Premises Resource
 date: 2019-11-19 00:00:00 -0000
 categories:
 ---
+
  * In this episode, Steve and Adam struggle to get Windows Hello for Business working using the Hybrid Key trust. Hybrid Key Trust will allow you to access on-premises resources using Windows Hello for Business credentials.
  * 
  * 00:00 - Intro

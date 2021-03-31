@@ -4,6 +4,7 @@ title: "S01E40 - Deep Dive into Intune Endpoint Security with Microsoft PM Matt 
 date: 2020-06-01 00:00:00 -0000
 categories:
 ---
+
  * Microsoft Intune Program Manager Matt Shadbolt joins us to give a deep dive into the new Endpoint Security features in Intune and ConfigMgr Tenant Attach security features.
  * 
  * Matt Shadbolt - Microsoft Program Manger - Microsoft Endpoint Manager - Intune

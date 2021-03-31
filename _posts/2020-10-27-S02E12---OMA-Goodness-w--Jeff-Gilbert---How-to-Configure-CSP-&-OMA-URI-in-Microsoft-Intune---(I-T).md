@@ -4,6 +4,7 @@ title: "S02E12 - OMA-Goodness w/ Jeff Gilbert - How to Configure CSP & OMA-URI i
 date: 2020-10-27 00:00:00 -0000
 categories:
 ---
+
  * 00:00 - Intro
  * 00:50 - Jeff Gilbert - Microsoft - Senior Customer Engineer, Azure & Endpoint Management
    -  [https://twitter.com/jeffgilb]

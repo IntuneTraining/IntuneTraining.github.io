@@ -4,6 +4,7 @@ title: "S01E21 - Creating Dynamic Device Groups in Microsoft Intune - (I.T)"
 date: 2019-11-26 00:00:00 -0000
 categories:
 ---
+
  * In this episode, Steve and Adam discuss how to create Dynamic Device Groups in Microsoft Intune.
  * 
  * 00:00 - Intro

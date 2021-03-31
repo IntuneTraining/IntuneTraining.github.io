@@ -4,6 +4,7 @@ title: "S02E08 - How to Customize the Company Portal app, website and Intune App
 date: 2020-09-16 00:00:00 -0000
 categories:
 ---
+
  * 00:00 - Intro
  * 01:10 - Azure AD company branding
    - [https://docs.microsoft.com/azure/active-directory/fundamentals/customize-branding]

@@ -4,6 +4,7 @@ title: "Getting Started with Windows 10 Feature Updates - Enterprise Feature Upd
 date: 2020-09-01 00:00:00 -0000
 categories:
 ---
+
  * Slides from the event can be found here:
  * [https://github.com/CSMUG/Meeting-Content/tree/master/EnterpriseFeatureUpdateAug2020]
  * 

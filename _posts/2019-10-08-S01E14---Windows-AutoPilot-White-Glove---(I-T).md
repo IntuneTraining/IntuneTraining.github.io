@@ -4,6 +4,7 @@ title: "S01E14 - Windows AutoPilot White Glove - (I.T)"
 date: 2019-10-08 00:00:00 -0000
 categories:
 ---
+
  * 00:00 - Intro
  * 01:43 - Windows Autopilot for white glove deployment
    -  [https://docs.microsoft.com/windows/deployment/windows-autopilot/white-glove]

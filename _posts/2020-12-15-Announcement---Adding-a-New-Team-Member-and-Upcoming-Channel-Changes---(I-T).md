@@ -4,6 +4,7 @@ title: "Announcement - Adding a New Team Member and Upcoming Channel Changes - (
 date: 2020-12-15 00:00:00 -0000
 categories:
 ---
+
  * We are excited to welcome Jake Shackelford to the Intune.Training team! We also discuss channel format changes to help our audience find the right content for their learning styles.
  * 
  * 00:00 - Intro

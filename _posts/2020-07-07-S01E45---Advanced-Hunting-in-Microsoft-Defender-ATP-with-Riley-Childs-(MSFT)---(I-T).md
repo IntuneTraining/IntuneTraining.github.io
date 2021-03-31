@@ -4,6 +4,7 @@ title: "S01E45 - Advanced Hunting in Microsoft Defender ATP with Riley Childs (M
 date: 2020-07-07 00:00:00 -0000
 categories:
 ---
+
  * 00:00 - Intro
  * 00:31 - Riley Childs Introduction
    - [https://twitter.com/RowdyChildren]

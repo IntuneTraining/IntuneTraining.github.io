@@ -4,6 +4,7 @@ title: "S02E13 - Getting Started with Intune for Education w/ Christopher Urban 
 date: 2020-11-03 00:00:00 -0000
 categories:
 ---
+
  * 0:00:00 - Introductions and Ice Breaking
  * 0:18:00 - Overview of scoping your environment's Users
  * 0:33:00 - Documentation for Education IT Admins

@@ -4,6 +4,7 @@ title: "S01E28 - How to Configure Policy Sets in Microsoft Intune - (I.T)"
 date: 2020-02-11 00:00:00 -0000
 categories:
 ---
+
  * Steve and Adam discuss how to use the new Policy Sets feature in Microsoft Intune to target groups settings/config/policies to devices/users.
  * 
  * 00:00 - Intro

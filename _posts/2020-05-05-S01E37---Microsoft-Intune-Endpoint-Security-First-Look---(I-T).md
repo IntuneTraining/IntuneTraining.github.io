@@ -4,6 +4,7 @@ title: "S01E37 - Microsoft Intune Endpoint Security First Look - (I.T)"
 date: 2020-05-05 00:00:00 -0000
 categories:
 ---
+
  * The guys jump right in and take a first look at the Microsoft Intune Endpoint Security preview.
  * 
  * 00:00 - Intro

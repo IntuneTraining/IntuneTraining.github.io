@@ -4,6 +4,7 @@ title: "Intune.Training - One Year Anniversary/10,000 Subscriber Celebration - L
 date: 2020-07-14 00:00:00 -0000
 categories:
 ---
+
  * 00:00 - Intro
  * 03:32 - History
  * 12:36 - Highlights

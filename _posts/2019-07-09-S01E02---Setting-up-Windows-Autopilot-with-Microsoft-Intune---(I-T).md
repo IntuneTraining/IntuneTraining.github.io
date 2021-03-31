@@ -4,6 +4,7 @@ title: "S01E02 - Setting up Windows Autopilot with Microsoft Intune - (I.T)"
 date: 2019-07-09 00:00:00 -0000
 categories:
 ---
+
  * Steve and Adam discuss and configure Windows Autopilot in Microsoft Intune.
  * 00:00 - Intro
  * 01:41 - Overview of Windows Autopilot

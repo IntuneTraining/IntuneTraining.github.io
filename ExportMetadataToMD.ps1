@@ -1,5 +1,5 @@
 try {
-$content = Import-CSV -Path "C:\Users\Adam\OneDrive - A Square Dozen\Intune.Training\youtube_extract_Intune_Training.csv"
+$content = Import-CSV -Path ".\youtube_extract_Intune_Training.csv"
 
 
 foreach ($video in $content) {
@@ -14,14 +14,13 @@ foreach ($video in $content) {
 
     $DescriptionLines = $Video.description.Split([Environment]::NewLine)
 
-$Header = @"
----
+$Header = "---
 layout: post
 title: `"$($PostTitle)`"
 date: $($PostDate) 00:00:00 -0000
 categories:
 ---
-"@
+"
     
 
 

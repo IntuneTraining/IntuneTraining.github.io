@@ -4,6 +4,7 @@ title: "S02E19 - Troubleshooting Microsoft Intune Application Installs with IME 
 date: 2021-01-06 00:00:00 -0000
 categories:
 ---
+
  * The intern stuffed up an application deployment, so we dive into the Intune Management Extension (IME) logs to find out what went wrong and show you some of the more advanced things you can do with the available logs from Intune!
  * 
  * 00:00 - Intro

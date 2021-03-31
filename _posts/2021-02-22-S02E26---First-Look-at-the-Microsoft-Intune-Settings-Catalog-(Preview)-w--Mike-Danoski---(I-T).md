@@ -4,6 +4,7 @@ title: "S02E26 - First Look at the Microsoft Intune Settings Catalog (Preview) w
 date: 2021-02-22 00:00:00 -0000
 categories:
 ---
+
  * 00:00 - Intro
  * 00:47 - Mike Danoski - Microsoft Endpoint Manager Device Configuration and Policy Program Manager
    - [https://twitter.com/MikeDanoski]

@@ -4,6 +4,7 @@ title: "S01E26 - Configuring Windows 10 Kiosk Mode with Microsoft Intune - (I.T)
 date: 2020-01-28 00:00:00 -0000
 categories:
 ---
+
  * Steve and Adam cover the basics of configuring Windows 10 Kiosk mode using Microsoft Intune.  
  * 
  * 00:00 - Intro

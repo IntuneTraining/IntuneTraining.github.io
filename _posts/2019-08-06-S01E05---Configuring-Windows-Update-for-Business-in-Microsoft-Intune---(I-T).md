@@ -4,6 +4,7 @@ title: "S01E05 - Configuring Windows Update for Business in Microsoft Intune - (
 date: 2019-08-06 00:00:00 -0000
 categories:
 ---
+
  * Steve and Adam discuss and configure Windows Update for Business in Microsoft Intune.
  * 
  * 00:00 - Intro

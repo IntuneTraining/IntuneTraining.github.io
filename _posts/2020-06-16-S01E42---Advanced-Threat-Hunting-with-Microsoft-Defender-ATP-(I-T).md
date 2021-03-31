@@ -4,6 +4,7 @@ title: "S01E42 - Advanced Threat Hunting with Microsoft Defender ATP (I.T)"
 date: 2020-06-16 00:00:00 -0000
 categories:
 ---
+
  * 00:00 - Intro
  * 01:08 - Microsoft Defender Security Center discussion
  * 07:31 - Live response session demo

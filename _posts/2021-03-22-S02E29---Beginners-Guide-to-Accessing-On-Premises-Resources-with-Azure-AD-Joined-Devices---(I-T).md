@@ -4,6 +4,7 @@ title: "S02E29 - Beginners Guide to Accessing On-Premises Resources with Azure A
 date: 2021-03-22 00:00:00 -0000
 categories:
 ---
+
  * Sorry about Adam's keyboard noise and yes, this could be a very short video but we felt like there are people who could use a more in-depth discussion.
  * 
  * 00:00 - Intro

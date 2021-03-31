@@ -4,6 +4,7 @@ title: "S02E27 - Configure Conditional Access & App Protection Policies for iOS 
 date: 2021-03-03 00:00:00 -0000
 categories:
 ---
+
  * 00:00 - Intro
  * 01:30 - S01E08 - Configuring Conditional Access in Microsoft Intune
    - [https://youtu.be/yI3PDQHaAp8]

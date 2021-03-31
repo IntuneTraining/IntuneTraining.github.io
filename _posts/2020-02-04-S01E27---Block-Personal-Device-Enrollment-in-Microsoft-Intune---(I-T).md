@@ -4,6 +4,7 @@ title: "S01E27 - Block Personal Device Enrollment in Microsoft Intune - (I.T)"
 date: 2020-02-04 00:00:00 -0000
 categories:
 ---
+
  * Steve and Adam discuss how to protect you user's personal devices by preventing them from being enrolled into Intune.
  * 
  * 00:00 - Intro

@@ -4,6 +4,7 @@ title: "S01E41 - Enabling Microsoft Defender Web Protection (Proxy) in the Defen
 date: 2020-06-10 00:00:00 -0000
 categories:
 ---
+
  * Steve and Ben drag Adam trough more security stuff. Adam is thrilled.
  * 
  * Microsoft released a new Web protection feature on securitycenter.microsoft.com which uses the 3rd party Cyren web proxy. This does require an E5 License.

@@ -4,6 +4,7 @@ title: "S02E01 - Easily Create Power BI Reports with the Intune Data Warehouse -
 date: 2020-07-21 00:00:00 -0000
 categories:
 ---
+
  * 00:00 - Intro
  * 01:11 - Integrating Intune data warehouse into PowerBI
  * 01:56 - Move to the Microsoft Endpoint Manager admin center

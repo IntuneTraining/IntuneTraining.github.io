@@ -4,6 +4,7 @@ title: "S02E23 - Getting started with Microsoft Tunnel VPN for iOS and Android w
 date: 2021-02-03 00:00:00 -0000
 categories:
 ---
+
  * Special Guest Jeff Gilbert - Senior Customer Engineer, Azure & Endpoint Management, Microsoft
  * [https://www.jeffgilb.com/blog/]
  * [https://docs.microsoft.com/en-us/mem/intune/protect/microsoft-tunnel-overview]

@@ -4,6 +4,7 @@ title: "Off The Cuff - ConfigMgr Cloud Management Gateway, Co-Management & VPN f
 date: 2020-03-19 00:00:00 -0000
 categories:
 ---
+
  * This is an impromptu session with Adam Gross and Bryan Dam discussing strategies for managing remote devices with ConfigMgr due to the increased needs for VPN and Work From Home brought on by COVID-19 - the Corona Virus. There was no planning or prep going into this and was just a Teams meeting that we recorded, so please don't complain about the quality, we just wanted to have an open discussion around strategies for managing devices.
  * 
  * 0:00:00 - Intro
