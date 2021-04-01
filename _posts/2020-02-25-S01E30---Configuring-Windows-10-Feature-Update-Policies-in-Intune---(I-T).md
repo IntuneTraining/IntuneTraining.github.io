@@ -7,16 +7,16 @@ categories:
 
 <iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/JfSpDVzA2CQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* [00:34](https://www.youtube.com/watch?v=JfSpDVzA2CQ&t=34s) - Feature update intro
-[https://docs.microsoft.com/intune/protect/windows-update-for-business-configure#windows-10-feature-updates](https://docs.microsoft.com/intune/protect/windows-update-for-business-configure#windows-10-feature-updates)
-* [01:55](https://www.youtube.com/watch?v=JfSpDVzA2CQ&t=115s) - Configuring Windows 10 feature update
-* [03:47](https://www.youtube.com/watch?v=JfSpDVzA2CQ&t=227s) - Create and assign Windows 10 feature update
-* [05:41](https://www.youtube.com/watch?v=JfSpDVzA2CQ&t=341s) - Confirm feature update deferral period equals 0
-[https://docs.microsoft.com/intune/protect/windows-update-for-business-configure#limitations-for-windows-10-feature-updates](https://docs.microsoft.com/intune/protect/windows-update-for-business-configure#limitations-for-windows-10-feature-updates)
-* [08:06](https://www.youtube.com/watch?v=JfSpDVzA2CQ&t=486s) - What's new in Microsoft Intune
-[https://docs.microsoft.com/intune/fundamentals/whats-new](https://docs.microsoft.com/intune/fundamentals/whats-new)
-* [11:08](https://www.youtube.com/watch?v=JfSpDVzA2CQ&t=668s) - Explanation of using Windows 10 update rings and feature update
-* [15:03](https://www.youtube.com/watch?v=JfSpDVzA2CQ&t=903s) - Wrap-up
+ * [00:34](https://www.youtube.com/watch?v=JfSpDVzA2CQ&t=34s) - Feature update intro
+   - [https://docs.microsoft.com/intune/protect/windows-update-for-business-configure#windows-10-feature-updates](https://docs.microsoft.com/intune/protect/windows-update-for-business-configure#windows-10-feature-updates)
+ * [01:55](https://www.youtube.com/watch?v=JfSpDVzA2CQ&t=115s) - Configuring Windows 10 feature update
+ * [03:47](https://www.youtube.com/watch?v=JfSpDVzA2CQ&t=227s) - Create and assign Windows 10 feature update
+ * [05:41](https://www.youtube.com/watch?v=JfSpDVzA2CQ&t=341s) - Confirm feature update deferral period equals 0
+   - [https://docs.microsoft.com/intune/protect/windows-update-for-business-configure#limitations-for-windows-10-feature-updates](https://docs.microsoft.com/intune/protect/windows-update-for-business-configure#limitations-for-windows-10-feature-updates)
+ * [08:06](https://www.youtube.com/watch?v=JfSpDVzA2CQ&t=486s) - What's new in Microsoft Intune
+   - [https://docs.microsoft.com/intune/fundamentals/whats-new](https://docs.microsoft.com/intune/fundamentals/whats-new)
+ * [11:08](https://www.youtube.com/watch?v=JfSpDVzA2CQ&t=668s) - Explanation of using Windows 10 update rings and feature update
+ * [15:03](https://www.youtube.com/watch?v=JfSpDVzA2CQ&t=903s) - Wrap-up
 
 Windows update settings for Intune
 [https://docs.microsoft.com/intune/protect/windows-update-settings#servicing-channel](https://docs.microsoft.com/intune/protect/windows-update-settings#servicing-channel)

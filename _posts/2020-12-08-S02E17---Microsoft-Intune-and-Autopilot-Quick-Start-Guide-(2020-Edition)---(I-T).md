@@ -18,30 +18,30 @@ S01E02 - Setting up Windows Autopilot with Microsoft Intune - (I.T)
 S01E43 - Revisiting Windows Autopilot - (I.T)
 [https://youtu.be/F409dff2eo4](https://youtu.be/F409dff2eo4)
 
-* [00:00](https://www.youtube.com/watch?v=OYaDWKqg1uY&t=0s) - Intro
-* [01:13](https://www.youtube.com/watch?v=OYaDWKqg1uY&t=73s) - Overview
-* [02:25](https://www.youtube.com/watch?v=OYaDWKqg1uY&t=145s) - Create Azure subscription
-[https://portal.azure.com/](https://portal.azure.com/)
-* [04:10](https://www.youtube.com/watch?v=OYaDWKqg1uY&t=250s) - Create Azure AD tenant
-[https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview)
-* [07:38](https://www.youtube.com/watch?v=OYaDWKqg1uY&t=458s) - Create global administrator account
-* [09:29](https://www.youtube.com/watch?v=OYaDWKqg1uY&t=569s) - Assign Microsoft 365 E5 trial licence
-[https://admin.microsoft.com/AdminPortal/Home#/catalog](https://admin.microsoft.com/AdminPortal/Home#/catalog)
-* [12:38](https://www.youtube.com/watch?v=OYaDWKqg1uY&t=758s) - Set Company branding
-[https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/LoginTenantBranding](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/LoginTenantBranding)
-* [16:00](https://www.youtube.com/watch?v=OYaDWKqg1uY&t=960s) - Enable Intune automatic enrollment
-[https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesEnrollmentMenu/windowsEnrollment](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesEnrollmentMenu/windowsEnrollment)
-* [17:47](https://www.youtube.com/watch?v=OYaDWKqg1uY&t=1067s) - Enable Microsoft Store for Business
-[https://businessstore.microsoft.com/manage/settings/distribute](https://businessstore.microsoft.com/manage/settings/distribute)
-* [19:53](https://www.youtube.com/watch?v=OYaDWKqg1uY&t=1193s) - Create Windows Autopilot deployment profile
-* [23:22](https://www.youtube.com/watch?v=OYaDWKqg1uY&t=1402s) - Create dynamic Azure AD group
-* [25:50](https://www.youtube.com/watch?v=OYaDWKqg1uY&t=1550s) - Create enrollment status page
-* [27:04](https://www.youtube.com/watch?v=OYaDWKqg1uY&t=1624s) - Assign applications
-* [27:54](https://www.youtube.com/watch?v=OYaDWKqg1uY&t=1674s) - Register device in Windows Autopilot
-[https://oofhours.com/2020/07/13/automating-the-windows-autopilot-device-hash-import-and-profile-assignment-process/](https://oofhours.com/2020/07/13/automating-the-windows-autopilot-device-hash-import-and-profile-assignment-process/)
-* [32:30](https://www.youtube.com/watch?v=OYaDWKqg1uY&t=1950s) - Confirming profile has been assigned
-* [35:39](https://www.youtube.com/watch?v=OYaDWKqg1uY&t=2139s) - Windows Autopilot OOBE
-* [38:01](https://www.youtube.com/watch?v=OYaDWKqg1uY&t=2281s) - Recap
+ * [00:00](https://www.youtube.com/watch?v=OYaDWKqg1uY&t=0s) - Intro
+ * [01:13](https://www.youtube.com/watch?v=OYaDWKqg1uY&t=73s) - Overview
+ * [02:25](https://www.youtube.com/watch?v=OYaDWKqg1uY&t=145s) - Create Azure subscription
+   - [https://portal.azure.com/](https://portal.azure.com/)
+ * [04:10](https://www.youtube.com/watch?v=OYaDWKqg1uY&t=250s) - Create Azure AD tenant
+   - [https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview)
+ * [07:38](https://www.youtube.com/watch?v=OYaDWKqg1uY&t=458s) - Create global administrator account
+ * [09:29](https://www.youtube.com/watch?v=OYaDWKqg1uY&t=569s) - Assign Microsoft 365 E5 trial licence
+   - [https://admin.microsoft.com/AdminPortal/Home#/catalog](https://admin.microsoft.com/AdminPortal/Home#/catalog)
+ * [12:38](https://www.youtube.com/watch?v=OYaDWKqg1uY&t=758s) - Set Company branding
+   - [https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/LoginTenantBranding](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/LoginTenantBranding)
+ * [16:00](https://www.youtube.com/watch?v=OYaDWKqg1uY&t=960s) - Enable Intune automatic enrollment
+   - [https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesEnrollmentMenu/windowsEnrollment](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesEnrollmentMenu/windowsEnrollment)
+ * [17:47](https://www.youtube.com/watch?v=OYaDWKqg1uY&t=1067s) - Enable Microsoft Store for Business
+   - [https://businessstore.microsoft.com/manage/settings/distribute](https://businessstore.microsoft.com/manage/settings/distribute)
+ * [19:53](https://www.youtube.com/watch?v=OYaDWKqg1uY&t=1193s) - Create Windows Autopilot deployment profile
+ * [23:22](https://www.youtube.com/watch?v=OYaDWKqg1uY&t=1402s) - Create dynamic Azure AD group
+ * [25:50](https://www.youtube.com/watch?v=OYaDWKqg1uY&t=1550s) - Create enrollment status page
+ * [27:04](https://www.youtube.com/watch?v=OYaDWKqg1uY&t=1624s) - Assign applications
+ * [27:54](https://www.youtube.com/watch?v=OYaDWKqg1uY&t=1674s) - Register device in Windows Autopilot
+   - [https://oofhours.com/2020/07/13/automating-the-windows-autopilot-device-hash-import-and-profile-assignment-process/](https://oofhours.com/2020/07/13/automating-the-windows-autopilot-device-hash-import-and-profile-assignment-process/)
+ * [32:30](https://www.youtube.com/watch?v=OYaDWKqg1uY&t=1950s) - Confirming profile has been assigned
+ * [35:39](https://www.youtube.com/watch?v=OYaDWKqg1uY&t=2139s) - Windows Autopilot OOBE
+ * [38:01](https://www.youtube.com/watch?v=OYaDWKqg1uY&t=2281s) - Recap
 
 Windows Autopilot documentation
 [https://docs.microsoft.com/mem/autopilot/](https://docs.microsoft.com/mem/autopilot/)
