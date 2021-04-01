@@ -9,7 +9,7 @@ categories:
 
 * [00:00](https://www.youtube.com/watch?v=_ddsZQdbMx4&t=0s) - Intro
 * [01:43](https://www.youtube.com/watch?v=_ddsZQdbMx4&t=103s) - Windows Autopilot for white glove deployment
-(https://docs.microsoft.com/windows/deployment/windows-autopilot/white-glove) [https://docs.microsoft.com/windows/deployment/windows-autopilot/white-glove]
+[https://docs.microsoft.com/windows/deployment/windows-autopilot/white-glove](https://docs.microsoft.com/windows/deployment/windows-autopilot/white-glove)
 * [04:26](https://www.youtube.com/watch?v=_ddsZQdbMx4&t=266s) - Starting the White Glove process
 * [06:01](https://www.youtube.com/watch?v=_ddsZQdbMx4&t=361s) - White Glove discussion
 * [20:15](https://www.youtube.com/watch?v=_ddsZQdbMx4&t=1215s) - Reseal device

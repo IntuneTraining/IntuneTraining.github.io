@@ -20,15 +20,15 @@ categories:
 * [1:58:00](https://www.youtube.com/watch?v=mjp2_mNqlgw&t=3540s) - Closing remarks
 
 Previous EDU video with Doug Wilson
-(https://youtu.be/t-Qr6e8-0GE) [https://youtu.be/t-Qr6e8-0GE]
+[https://youtu.be/t-Qr6e8-0GE](https://youtu.be/t-Qr6e8-0GE)
 
-(https://docs.microsoft.com/en-us/education/itadmins) [https://docs.microsoft.com/en-us/education/itadmins]
+[https://docs.microsoft.com/en-us/education/itadmins](https://docs.microsoft.com/en-us/education/itadmins)
 
 Christopher Urban - Microsoft Program Manager - Intune for Education
-(https://twitter.com/msclassroomgeek) [https://twitter.com/msclassroomgeek]
-(https://classroomgeek.com/) [https://classroomgeek.com/]
+[https://twitter.com/msclassroomgeek](https://twitter.com/msclassroomgeek)
+[https://classroomgeek.com/](https://classroomgeek.com/)
 
 Doug Wilson - Microsoft MVP - Enterprise Mobility
-(https://twitter.com/ManageDoug) [https://twitter.com/ManageDoug]
-(https://managedoug.com/) [https://managedoug.com/]
+[https://twitter.com/ManageDoug](https://twitter.com/ManageDoug)
+[https://managedoug.com/](https://managedoug.com/)
 

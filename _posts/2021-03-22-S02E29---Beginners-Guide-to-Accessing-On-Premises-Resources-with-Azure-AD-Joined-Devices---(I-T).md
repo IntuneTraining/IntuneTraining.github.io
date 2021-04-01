@@ -12,9 +12,9 @@ Sorry about Adam's keyboard noise and yes, this could be a very short video but 
 * [00:00](https://www.youtube.com/watch?v=dUJnIakSPkA&t=0s) - Intro
 * [00:10](https://www.youtube.com/watch?v=dUJnIakSPkA&t=10s) - Jóhannes Geir Kristjánsson introduction
 * [01:10](https://www.youtube.com/watch?v=dUJnIakSPkA&t=70s) - Access on-premises resources from an Azure AD-joined device
-(https://docs.microsoft.com/microsoft-365/business/access-resources) [https://docs.microsoft.com/microsoft-365/business/access-resources]
+[https://docs.microsoft.com/microsoft-365/business/access-resources](https://docs.microsoft.com/microsoft-365/business/access-resources)
 * [02:36](https://www.youtube.com/watch?v=dUJnIakSPkA&t=156s) - Windows admins discord
-(http://aka.ms/winadmins) [http://aka.ms/winadmins]
+[http://aka.ms/winadmins](http://aka.ms/winadmins)
 * [04:31](https://www.youtube.com/watch?v=dUJnIakSPkA&t=271s) - Migration process
 * [06:40](https://www.youtube.com/watch?v=dUJnIakSPkA&t=400s) - Blockers
 * [10:24](https://www.youtube.com/watch?v=dUJnIakSPkA&t=624s) - Lab environment

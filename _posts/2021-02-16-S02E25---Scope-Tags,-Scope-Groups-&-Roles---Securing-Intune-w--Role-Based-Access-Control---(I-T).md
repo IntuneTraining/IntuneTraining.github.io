@@ -11,8 +11,8 @@ In this video the guys discuss role based access control and securing the portal
 
 * [00:00](https://www.youtube.com/watch?v=XlXEzdkY7Mc&t=0s) - Intro
 * [00:40](https://www.youtube.com/watch?v=XlXEzdkY7Mc&t=40s) - What is role based access control
-(https://docs.microsoft.com/mem/intune/fundamentals/role-based-access-control) [https://docs.microsoft.com/mem/intune/fundamentals/role-based-access-control]
-(https://docs.microsoft.com/microsoft-365/admin/add-users/intune-admin-roles-in-the-mac) [https://docs.microsoft.com/microsoft-365/admin/add-users/intune-admin-roles-in-the-mac]
+[https://docs.microsoft.com/mem/intune/fundamentals/role-based-access-control](https://docs.microsoft.com/mem/intune/fundamentals/role-based-access-control)
+[https://docs.microsoft.com/microsoft-365/admin/add-users/intune-admin-roles-in-the-mac](https://docs.microsoft.com/microsoft-365/admin/add-users/intune-admin-roles-in-the-mac)
 * [02:46](https://www.youtube.com/watch?v=XlXEzdkY7Mc&t=166s) - Azure active directory roles
 * [07:38](https://www.youtube.com/watch?v=XlXEzdkY7Mc&t=458s) - Assigning scope tags
 * [10:42](https://www.youtube.com/watch?v=XlXEzdkY7Mc&t=642s) - Creating a custom role
@@ -21,5 +21,5 @@ In this video the guys discuss role based access control and securing the portal
 * [21:50](https://www.youtube.com/watch?v=XlXEzdkY7Mc&t=1310s) - Role permissions
 
 RBAC with Graph
-(https://docs.microsoft.com/graph/api/resources/intune-rbac-conceptual) [https://docs.microsoft.com/graph/api/resources/intune-rbac-conceptual]
+[https://docs.microsoft.com/graph/api/resources/intune-rbac-conceptual](https://docs.microsoft.com/graph/api/resources/intune-rbac-conceptual)
 

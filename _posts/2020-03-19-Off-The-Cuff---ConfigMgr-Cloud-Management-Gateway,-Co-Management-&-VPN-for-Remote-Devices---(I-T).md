@@ -11,9 +11,9 @@ This is an impromptu session with Adam Gross and Bryan Dam discussing strategies
 
 * [0:00:00](https://www.youtube.com/watch?v=RkLqVCak6Ps&t=0s) - Intro
 * [0:00:30](https://www.youtube.com/watch?v=RkLqVCak6Ps&t=30s) - WinAdmins Discord channel
-(http://aka.ms/WinAdmins) [http://aka.ms/WinAdmins]
+[http://aka.ms/WinAdmins](http://aka.ms/WinAdmins)
 * [0:01:58](https://www.youtube.com/watch?v=RkLqVCak6Ps&t=118s) - Managing remote machines with CMG in Microsoft Endpoint Configuration Manager
-(https://techcommunity.microsoft.com/t5/configuration-manager-blog/managing-remote-machines-with-cloud-management-gateway-in/ba-p/1233895) [https://techcommunity.microsoft.com/t5/configuration-manager-blog/managing-remote-machines-with-cloud-management-gateway-in/ba-p/1233895]
+[https://techcommunity.microsoft.com/t5/configuration-manager-blog/managing-remote-machines-with-cloud-management-gateway-in/ba-p/1233895](https://techcommunity.microsoft.com/t5/configuration-manager-blog/managing-remote-machines-with-cloud-management-gateway-in/ba-p/1233895)
 * [0:02:56](https://www.youtube.com/watch?v=RkLqVCak6Ps&t=176s) - Explaining what's VPN split tunnelling
 * [0:10:17](https://www.youtube.com/watch?v=RkLqVCak6Ps&t=617s) - Co-Management overview
 * [0:12:50](https://www.youtube.com/watch?v=RkLqVCak6Ps&t=770s) - Cloud Management Gateway overview
@@ -26,6 +26,6 @@ This is an impromptu session with Adam Gross and Bryan Dam discussing strategies
 * [1:21:52](https://www.youtube.com/watch?v=RkLqVCak6Ps&t=1372s) - CMG discussion and cost
 
 Special thanks to Riley Childs for jumping in as well!
-(https://twitter.com/RowdyChildren) [https://twitter.com/RowdyChildren]
-(https://www.rileychilds.me/) [https://www.rileychilds.me/]
+[https://twitter.com/RowdyChildren](https://twitter.com/RowdyChildren)
+[https://www.rileychilds.me/](https://www.rileychilds.me/)
 

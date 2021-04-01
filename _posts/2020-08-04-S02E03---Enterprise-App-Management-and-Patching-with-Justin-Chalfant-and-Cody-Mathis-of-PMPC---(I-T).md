@@ -23,16 +23,16 @@ NOTE
 This is not a sponsored. We love Justin and Cody's community work and they are innovating in this space. They also happen to sell software. If you think their software is a good fit for you, contact them. Otherwise, enjoy the awesome info these guys have to offer.
 
 SCRIPTS HERE:
-(https://patchmypc.com/intune.training) [https://patchmypc.com/intune.training]
+[https://patchmypc.com/intune.training](https://patchmypc.com/intune.training)
 
 Patch My PC Blog
-(https://patchmypc.com/third-party-patch-management-for-microsoft-intune-now-available) [https://patchmypc.com/third-party-patch-management-for-microsoft-intune-now-available]
+[https://patchmypc.com/third-party-patch-management-for-microsoft-intune-now-available](https://patchmypc.com/third-party-patch-management-for-microsoft-intune-now-available)
 
 Follow our guests on Twitter:
-(https://twitter.com/SetupConfigMgr) [https://twitter.com/SetupConfigMgr]
-(https://twitter.com/CodyMathis123) [https://twitter.com/CodyMathis123]
+[https://twitter.com/SetupConfigMgr](https://twitter.com/SetupConfigMgr)
+[https://twitter.com/CodyMathis123](https://twitter.com/CodyMathis123)
 
 Patch My PC YouTube Channel - Amazing resource with the best ConfigMgr videos around!
-(https://www.youtube.com/channel/UCT9BKiLpbO1pGxXsU1-_zBg) [https://www.youtube.com/channel/UCT9BKiLpbO1pGxXsU1-_zBg]
+[https://www.youtube.com/channel/UCT9BKiLpbO1pGxXsU1-_zBg](https://www.youtube.com/channel/UCT9BKiLpbO1pGxXsU1-_zBg)
 
 

@@ -15,6 +15,6 @@ categories:
 * [23:55](https://www.youtube.com/watch?v=gGgj8AALrgQ&t=1435s) - Tasks explained
 * [31:12](https://www.youtube.com/watch?v=gGgj8AALrgQ&t=1872s) - Creating a simple task
 * [45:10](https://www.youtube.com/watch?v=gGgj8AALrgQ&t=2710s) - Ben's Repo
-(https://github.com/tabs-not-spaces/Intune-App-Deploy) [https://github.com/tabs-not-spaces/Intune-App-Deploy]
+[https://github.com/tabs-not-spaces/Intune-App-Deploy](https://github.com/tabs-not-spaces/Intune-App-Deploy)
 * [45:52](https://www.youtube.com/watch?v=gGgj8AALrgQ&t=2752s) - Wrapping up
 

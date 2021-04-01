@@ -9,10 +9,10 @@ categories:
 
 * [00:00](https://www.youtube.com/watch?v=Os5VC5hWmDQ&t=0s) - Intro
 * [01:06](https://www.youtube.com/watch?v=Os5VC5hWmDQ&t=66s) - Connect your Intune account to your Managed Google Play account
-(https://docs.microsoft.com/mem/intune/enrollment/connect-intune-android-enterprise) [https://docs.microsoft.com/mem/intune/enrollment/connect-intune-android-enterprise]
+[https://docs.microsoft.com/mem/intune/enrollment/connect-intune-android-enterprise](https://docs.microsoft.com/mem/intune/enrollment/connect-intune-android-enterprise)
 * [03:58](https://www.youtube.com/watch?v=Os5VC5hWmDQ&t=238s) - Android enrolment scenarios
-(https://docs.microsoft.com/mem/intune/enrollment/android-enroll) [https://docs.microsoft.com/mem/intune/enrollment/android-enroll]
+[https://docs.microsoft.com/mem/intune/enrollment/android-enroll](https://docs.microsoft.com/mem/intune/enrollment/android-enroll)
 * [06:48](https://www.youtube.com/watch?v=Os5VC5hWmDQ&t=408s) - Set enrollment restrictions
-(https://docs.microsoft.com/mem/intune/enrollment/enrollment-restrictions-set) [https://docs.microsoft.com/mem/intune/enrollment/enrollment-restrictions-set]
+[https://docs.microsoft.com/mem/intune/enrollment/enrollment-restrictions-set](https://docs.microsoft.com/mem/intune/enrollment/enrollment-restrictions-set)
 * [09:48](https://www.youtube.com/watch?v=Os5VC5hWmDQ&t=588s) - Wrapping up
 

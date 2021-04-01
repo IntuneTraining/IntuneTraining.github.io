@@ -9,15 +9,15 @@ categories:
 
 Jake's first solo video shows you one option for mapping network drives for Microsoft Intune devices.
 
-Special thanks to (https://twitter.com/nicolonsky) [https://twitter.com/nicolonsky] For the utility!
+Special thanks to [https://twitter.com/nicolonsky](https://twitter.com/nicolonsky) For the utility!
 
-Companion Blog Post - (https://sysmansquad.com/2020/12/16/mapping-network-drives-on-intune-devices/) [https://sysmansquad.com/2020/12/16/mapping-network-drives-on-intune-devices/]
+Companion Blog Post - [https://sysmansquad.com/2020/12/16/mapping-network-drives-on-intune-devices/](https://sysmansquad.com/2020/12/16/mapping-network-drives-on-intune-devices/)
 
 * [0:00](https://www.youtube.com/watch?v=hHtXFeuHkC4&t=0s) - Intro
 * [0:41](https://www.youtube.com/watch?v=hHtXFeuHkC4&t=41s) - Intune Drive Mapping Generator
-(https://intunedrivemapping.azurewebsites.net/DriveMapping) [https://intunedrivemapping.azurewebsites.net/DriveMapping]
+[https://intunedrivemapping.azurewebsites.net/DriveMapping](https://intunedrivemapping.azurewebsites.net/DriveMapping)
 * [0:52](https://www.youtube.com/watch?v=hHtXFeuHkC4&t=52s) - Mapping Network Drives on Intune Devices
-(https://sysmansquad.com/2020/12/16/mapping-network-drives-on-intune-devices/) [https://sysmansquad.com/2020/12/16/mapping-network-drives-on-intune-devices/]
+[https://sysmansquad.com/2020/12/16/mapping-network-drives-on-intune-devices/](https://sysmansquad.com/2020/12/16/mapping-network-drives-on-intune-devices/)
 * [0:57](https://www.youtube.com/watch?v=hHtXFeuHkC4&t=57s) - Add network drives
 * [2:21](https://www.youtube.com/watch?v=hHtXFeuHkC4&t=141s) - Modify the script
 * [4:16](https://www.youtube.com/watch?v=hHtXFeuHkC4&t=256s) - Deploy via Intune

@@ -9,9 +9,9 @@ categories:
 
 This is a recording from the Charlotte Systems Management User Group Browser Summit held on January 29, 2021.
 
-(https://www.meetup.com/CLT-System-Management-User-Group/events/274553206/) [https://www.meetup.com/CLT-System-Management-User-Group/events/274553206/]
+[https://www.meetup.com/CLT-System-Management-User-Group/events/274553206/](https://www.meetup.com/CLT-System-Management-User-Group/events/274553206/)
 
-Slide content can be found here: (https://github.com/CSMUG/Meeting-Content/tree/master/BrowserSummitJan2021) [https://github.com/CSMUG/Meeting-Content/tree/master/BrowserSummitJan2021]
+Slide content can be found here: [https://github.com/CSMUG/Meeting-Content/tree/master/BrowserSummitJan2021](https://github.com/CSMUG/Meeting-Content/tree/master/BrowserSummitJan2021)
 
 Did you know that time spent using a browser on a PC is 60%?
 

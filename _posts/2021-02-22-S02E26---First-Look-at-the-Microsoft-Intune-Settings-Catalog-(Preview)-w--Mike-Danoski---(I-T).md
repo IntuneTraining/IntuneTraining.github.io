@@ -9,9 +9,9 @@ categories:
 
 * [00:00](https://www.youtube.com/watch?v=sqIKcWXPvyI&t=0s) - Intro
 * [00:47](https://www.youtube.com/watch?v=sqIKcWXPvyI&t=47s) - Mike Danoski - Microsoft Endpoint Manager Device Configuration and Policy Program Manager
-(https://twitter.com/MikeDanoski) [https://twitter.com/MikeDanoski]
+[https://twitter.com/MikeDanoski](https://twitter.com/MikeDanoski)
 * [01:43](https://www.youtube.com/watch?v=sqIKcWXPvyI&t=103s) - Settings catalog announcement
-(https://techcommunity.microsoft.com/t5/microsoft-endpoint-manager-blog/preview-microsoft-endpoint-manager-s-settings-catalog-to-more/ba-p/2116084) [https://techcommunity.microsoft.com/t5/microsoft-endpoint-manager-blog/preview-microsoft-endpoint-manager-s-settings-catalog-to-more/ba-p/2116084]
+[https://techcommunity.microsoft.com/t5/microsoft-endpoint-manager-blog/preview-microsoft-endpoint-manager-s-settings-catalog-to-more/ba-p/2116084](https://techcommunity.microsoft.com/t5/microsoft-endpoint-manager-blog/preview-microsoft-endpoint-manager-s-settings-catalog-to-more/ba-p/2116084)
 * [05:48](https://www.youtube.com/watch?v=sqIKcWXPvyI&t=348s) - How settings are set via Intune
 * [14:03](https://www.youtube.com/watch?v=sqIKcWXPvyI&t=843s) - Finding a particular setting the fastest
 * [19:38](https://www.youtube.com/watch?v=sqIKcWXPvyI&t=1178s) - Using settings catalog
@@ -22,5 +22,5 @@ categories:
 * [1:02:30](https://www.youtube.com/watch?v=sqIKcWXPvyI&t=210s) - Discussion
 
 Settings catalog documentation:
-(https://docs.microsoft.com/en-us/mem/intune/configuration/settings-catalog) [https://docs.microsoft.com/en-us/mem/intune/configuration/settings-catalog]
+[https://docs.microsoft.com/en-us/mem/intune/configuration/settings-catalog](https://docs.microsoft.com/en-us/mem/intune/configuration/settings-catalog)
 

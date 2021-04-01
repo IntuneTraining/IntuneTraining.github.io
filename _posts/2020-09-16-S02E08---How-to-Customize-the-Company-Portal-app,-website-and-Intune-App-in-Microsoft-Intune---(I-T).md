@@ -9,13 +9,13 @@ categories:
 
 * [00:00](https://www.youtube.com/watch?v=VdZOmUkTHnw&t=0s) - Intro
 * [01:10](https://www.youtube.com/watch?v=VdZOmUkTHnw&t=70s) - Azure AD company branding
-(https://docs.microsoft.com/azure/active-directory/fundamentals/customize-branding) [https://docs.microsoft.com/azure/active-directory/fundamentals/customize-branding]
+[https://docs.microsoft.com/azure/active-directory/fundamentals/customize-branding](https://docs.microsoft.com/azure/active-directory/fundamentals/customize-branding)
 * [02:15](https://www.youtube.com/watch?v=VdZOmUkTHnw&t=135s) - Company portal customization
-(https://docs.microsoft.com/mem/intune/apps/company-portal-app) [https://docs.microsoft.com/mem/intune/apps/company-portal-app]
+[https://docs.microsoft.com/mem/intune/apps/company-portal-app](https://docs.microsoft.com/mem/intune/apps/company-portal-app)
 * [06:02](https://www.youtube.com/watch?v=VdZOmUkTHnw&t=362s) - Configure enrollment setting for Android and iOS/iPadOS
 * [06:22](https://www.youtube.com/watch?v=VdZOmUkTHnw&t=382s) - Additional app sources
 * [07:00](https://www.youtube.com/watch?v=VdZOmUkTHnw&t=420s) - Company portal website
-(https://portal.manage.microsoft.com/) [https://portal.manage.microsoft.com/]
+[https://portal.manage.microsoft.com/](https://portal.manage.microsoft.com/)
 * [17:21](https://www.youtube.com/watch?v=VdZOmUkTHnw&t=1041s) - Wrapping up
 
 From the comments:
@@ -30,7 +30,7 @@ Then, if you need to allow enrollment, you can create a new template profile and
 Cool stuff!
 
 
-(https://docs.microsoft.com/en-us/mem/intune/apps/company-portal-app) [https://docs.microsoft.com/en-us/mem/intune/apps/company-portal-app]
+[https://docs.microsoft.com/en-us/mem/intune/apps/company-portal-app](https://docs.microsoft.com/en-us/mem/intune/apps/company-portal-app)
 
-Company Branding - (https://youtu.be/OkeUN-tdfqs?t=1512) [https://youtu.be/OkeUN-tdfqs?t=1512]
+Company Branding - [https://youtu.be/OkeUN-tdfqs?t=1512](https://youtu.be/OkeUN-tdfqs?t=1512)
 

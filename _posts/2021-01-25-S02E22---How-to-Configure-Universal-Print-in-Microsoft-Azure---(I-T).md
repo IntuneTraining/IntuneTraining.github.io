@@ -7,12 +7,12 @@ categories:
 
 <iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/iDv3egbVkHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Special thanks to Jaap Brasser for making an appearance (https://twitter.com/Jaap_Brasser) [https://twitter.com/Jaap_Brasser].
+Special thanks to Jaap Brasser for making an appearance [https://twitter.com/Jaap_Brasser](https://twitter.com/Jaap_Brasser).
 
 * [00:00](https://www.youtube.com/watch?v=iDv3egbVkHc&t=0s) - Intro
 * [02:04](https://www.youtube.com/watch?v=iDv3egbVkHc&t=124s) - Universal Print licencing
 * [03:16](https://www.youtube.com/watch?v=iDv3egbVkHc&t=196s) - Onboarding Universal Print
-(https://docs.microsoft.com/universal-print/fundamentals/universal-print-getting-started) [https://docs.microsoft.com/universal-print/fundamentals/universal-print-getting-started]
+[https://docs.microsoft.com/universal-print/fundamentals/universal-print-getting-started](https://docs.microsoft.com/universal-print/fundamentals/universal-print-getting-started)
 * [04:50](https://www.youtube.com/watch?v=iDv3egbVkHc&t=290s) - Add on licence
 * [06:16](https://www.youtube.com/watch?v=iDv3egbVkHc&t=376s) - Assign licence via AAD group
 * [07:57](https://www.youtube.com/watch?v=iDv3egbVkHc&t=477s) - Assign printer roles
@@ -23,5 +23,5 @@ Special thanks to Jaap Brasser for making an appearance (https://twitter.com/Jaa
 * [26:07](https://www.youtube.com/watch?v=iDv3egbVkHc&t=1567s) - Discussion
 
 Universal Print service documentation
-(https://docs.microsoft.com/universal-print/) [https://docs.microsoft.com/universal-print/]
+[https://docs.microsoft.com/universal-print/](https://docs.microsoft.com/universal-print/)
 

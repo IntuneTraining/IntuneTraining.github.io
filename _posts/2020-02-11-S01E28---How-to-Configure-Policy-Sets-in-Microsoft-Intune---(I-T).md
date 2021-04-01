@@ -11,11 +11,11 @@ Steve and Adam discuss how to use the new Policy Sets feature in Microsoft Intun
 
 * [00:00](https://www.youtube.com/watch?v=rAkXyx5_6Zg&t=0s) - Intro
 * [01:17](https://www.youtube.com/watch?v=rAkXyx5_6Zg&t=77s) - Policy sets overview
-(https://docs.microsoft.com/intune/fundamentals/policy-sets) [https://docs.microsoft.com/intune/fundamentals/policy-sets]
+[https://docs.microsoft.com/intune/fundamentals/policy-sets](https://docs.microsoft.com/intune/fundamentals/policy-sets)
 * [05:40](https://www.youtube.com/watch?v=rAkXyx5_6Zg&t=340s) - Creating policy sets
 * [12:49](https://www.youtube.com/watch?v=rAkXyx5_6Zg&t=769s) - Assigning policy sets discussion
 * [16:38](https://www.youtube.com/watch?v=rAkXyx5_6Zg&t=998s) - Recap
 
 Policy sets known issues
-(https://docs.microsoft.com/intune/fundamentals/policy-sets#policy-sets-known-issues) [https://docs.microsoft.com/intune/fundamentals/policy-sets#policy-sets-known-issues]
+[https://docs.microsoft.com/intune/fundamentals/policy-sets#policy-sets-known-issues](https://docs.microsoft.com/intune/fundamentals/policy-sets#policy-sets-known-issues)
 

@@ -23,11 +23,11 @@ Note - Adam forgot to edit out a section where we were waiting to device syncs t
 * [52:55](https://www.youtube.com/watch?v=VOBzV6GjOvI&t=3175s) - JSON result
 * [56:20](https://www.youtube.com/watch?v=VOBzV6GjOvI&t=3380s) - Wrapping up
 
-(https://sysmansquad.com/2020/07/27/setting-acl-using-intune-endpoint-analytics-proactive-remediations/) [https://sysmansquad.com/2020/07/27/setting-acl-using-intune-endpoint-analytics-proactive-remediations/]
-(https://sysmansquad.com/2020/07/08/dynamic-outlook-email-signature-using-with-intune-endpoint-analytics-proactive-remediations/) [https://sysmansquad.com/2020/07/08/dynamic-outlook-email-signature-using-with-intune-endpoint-analytics-proactive-remediations/]
-(https://sysmansquad.com/2020/07/07/intune-autopilot-proactive-remediation/) [https://sysmansquad.com/2020/07/07/intune-autopilot-proactive-remediation/]
-(https://byteben.com/bb/getting-started-with-microsoft-intune-proactive-remediations/) [https://byteben.com/bb/getting-started-with-microsoft-intune-proactive-remediations/]
-(https://msendpointmgr.com/2020/06/25/endpoint-analytics-proactive-remediations/) [https://msendpointmgr.com/2020/06/25/endpoint-analytics-proactive-remediations/]
-(https://docs.microsoft.com/en-us/mem/analytics/proactive-remediations) [https://docs.microsoft.com/en-us/mem/analytics/proactive-remediations]
+[https://sysmansquad.com/2020/07/27/setting-acl-using-intune-endpoint-analytics-proactive-remediations/](https://sysmansquad.com/2020/07/27/setting-acl-using-intune-endpoint-analytics-proactive-remediations/)
+[https://sysmansquad.com/2020/07/08/dynamic-outlook-email-signature-using-with-intune-endpoint-analytics-proactive-remediations/](https://sysmansquad.com/2020/07/08/dynamic-outlook-email-signature-using-with-intune-endpoint-analytics-proactive-remediations/)
+[https://sysmansquad.com/2020/07/07/intune-autopilot-proactive-remediation/](https://sysmansquad.com/2020/07/07/intune-autopilot-proactive-remediation/)
+[https://byteben.com/bb/getting-started-with-microsoft-intune-proactive-remediations/](https://byteben.com/bb/getting-started-with-microsoft-intune-proactive-remediations/)
+[https://msendpointmgr.com/2020/06/25/endpoint-analytics-proactive-remediations/](https://msendpointmgr.com/2020/06/25/endpoint-analytics-proactive-remediations/)
+[https://docs.microsoft.com/en-us/mem/analytics/proactive-remediations](https://docs.microsoft.com/en-us/mem/analytics/proactive-remediations)
 
 
