@@ -5,6 +5,8 @@ date: 2020-11-03 00:00:00 -0000
 categories:
 ---
 
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/mjp2_mNqlgw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
  * [0:00:00](https://www.youtube.com/watch?v=mjp2_mNqlgw&t=0s) - Introductions and Ice Breaking
  * [0:18:00](https://www.youtube.com/watch?v=mjp2_mNqlgw&t=1080s) - Overview of scoping your environment's Users
  * [0:33:00](https://www.youtube.com/watch?v=mjp2_mNqlgw&t=1980s) - Documentation for Education IT Admins
@@ -16,36 +18,17 @@ categories:
  * [1:38:00](https://www.youtube.com/watch?v=mjp2_mNqlgw&t=2340s) - Getting started with Intune for Education plus features
  * [1:47:00](https://www.youtube.com/watch?v=mjp2_mNqlgw&t=2880s) - Deploying Apps in Education
  * [1:58:00](https://www.youtube.com/watch?v=mjp2_mNqlgw&t=3540s) - Closing remarks
- * 
+
  * Previous EDU video with Doug Wilson
- * [https://youtu.be/t-Qr6e8-0GE]
- * 
- * [https://docs.microsoft.com/en-us/education/itadmins]
- * 
+ * https://youtu.be/t-Qr6e8-0GE
+
+ * https://docs.microsoft.com/en-us/education/itadmins
+
  * Christopher Urban - Microsoft Program Manager - Intune for Education
- * [https://twitter.com/msclassroomgeek]
- * [https://classroomgeek.com/]
- * 
+ * https://twitter.com/msclassroomgeek
+ * https://classroomgeek.com/
+
  * Doug Wilson - Microsoft MVP - Enterprise Mobility
- * [https://twitter.com/ManageDoug]
- * [https://managedoug.com/]
- * 
- * Visit our websites and social media for more or to get in touch with us
- * 
- * Steve Hosking - Microsoft MMD Team
- * [https://www.twitter.com/OnPremCloudGuy]
- * [http://steven.hosking.com.au/]
- * [https://mvp.microsoft.com/en-us/PublicProfile/5002537?fullName=Steven%20Hosking]
- * [https://github.com/onpremcloudguy]
- * 
- * Adam Gross - Microsoft MVP - Enterprise Mobility
- * [https://www.twitter.com/AdamGrossTX]
- * [https://www.asquaredozen.com]
- * [https://github.com/AdamGrossTX]
- * [https://mvp.microsoft.com/en-us/PublicProfile/5003519?fullName=Adam%20Gross]
- * 
- * Ben Reader - Microsoft MVP - Enterprise Mobility
- * [https://twitter.com/powers_hell]
- * [https://www.powers-hell.com/]
- * [https://github.com/tabs-not-spaces]
- * [https://mvp.microsoft.com/en-us/PublicProfile/5003799?fullName=Ben%20Reader]
+ * https://twitter.com/ManageDoug
+ * https://managedoug.com/
+

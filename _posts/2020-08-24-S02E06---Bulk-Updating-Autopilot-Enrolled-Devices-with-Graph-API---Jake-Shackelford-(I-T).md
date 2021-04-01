@@ -5,11 +5,13 @@ date: 2020-08-24 00:00:00 -0000
 categories:
 ---
 
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/VCR-J5pvQbo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
  * [00:00](https://www.youtube.com/watch?v=VCR-J5pvQbo&t=0s) - Intro
  * [00:20](https://www.youtube.com/watch?v=VCR-J5pvQbo&t=20s) - Jack Shackelford introduction
  * [01:55](https://www.youtube.com/watch?v=VCR-J5pvQbo&t=115s) - Updating group tags
  * [03:22](https://www.youtube.com/watch?v=VCR-J5pvQbo&t=202s) - Blog - Bulk Updating Autopilot enrolled devices with Graph API and assigning a Group Tag based on Purchase OrderID
-   - [https://www.sysmansquad.com/2020/08/24/bulk-updating-autopilot-enrolled-devices-with-graph-api-and-assigning-a-group-tag-based-on-purchase-orderid/]
+- https://www.sysmansquad.com/2020/08/24/bulk-updating-autopilot-enrolled-devices-with-graph-api-and-assigning-a-group-tag-based-on-purchase-orderid/
  * [05:21](https://www.youtube.com/watch?v=VCR-J5pvQbo&t=321s) - Creating a Dynamic Device Group
  * [10:08](https://www.youtube.com/watch?v=VCR-J5pvQbo&t=608s) - Registering an APP to access Graph API and Grabbing Additional Information
  * [15:44](https://www.youtube.com/watch?v=VCR-J5pvQbo&t=944s) - The Script
@@ -21,30 +23,11 @@ categories:
  * [42:23](https://www.youtube.com/watch?v=VCR-J5pvQbo&t=2543s) - Increasing security and mobility
  * [47:50](https://www.youtube.com/watch?v=VCR-J5pvQbo&t=2870s) - Nested groups
  * [52:53](https://www.youtube.com/watch?v=VCR-J5pvQbo&t=3173s) - Policy sync frequencies
-   - [https://docs.microsoft.com/en-us/mem/intune/configuration/device-profile-troubleshoot]
+- https://docs.microsoft.com/en-us/mem/intune/configuration/device-profile-troubleshoot
  * [55:25](https://www.youtube.com/watch?v=VCR-J5pvQbo&t=3325s) - Hardware inventory
- * 
+
  * Jake Shackelford
- * [https://twitter.com/shackelfjaco]
- * [https://www.sysmansquad.com]
- * [http://aka.ms/WinAdmins]
- * 
- * Visit our websites and social media for more or to get in touch with us
- * 
- * Steve Hosking - Microsoft MMD Team
- * [https://www.twitter.com/OnPremCloudGuy]
- * [http://steven.hosking.com.au/]
- * [https://mvp.microsoft.com/en-us/PublicProfile/5002537?fullName=Steven%20Hosking]
- * [https://github.com/onpremcloudguy]
- * 
- * Adam Gross - Microsoft MVP - Enterprise Mobility
- * [https://www.twitter.com/AdamGrossTX]
- * [https://www.asquaredozen.com]
- * [https://github.com/AdamGrossTX]
- * [https://mvp.microsoft.com/en-us/PublicProfile/5003519?fullName=Adam%20Gross]
- * 
- * Ben Reader - Microsoft MVP - Enterprise Mobility
- * [https://twitter.com/powers_hell]
- * [https://www.powers-hell.com/]
- * [https://github.com/tabs-not-spaces]
- * [https://mvp.microsoft.com/en-us/PublicProfile/5003799?fullName=Ben%20Reader]
+ * https://twitter.com/shackelfjaco
+ * https://www.sysmansquad.com
+ * http://aka.ms/WinAdmins
+

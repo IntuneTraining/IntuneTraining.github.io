@@ -1,7 +1,6 @@
 try {
 $content = Import-CSV -Path ".\youtube_extract_Intune_Training.csv"
 
-
 foreach ($video in $content) {
     #$video = $content[22]
     #$video
@@ -11,6 +10,7 @@ foreach ($video in $content) {
     $PostAuthor = "Intune.Training"
     $PostDate = Get-Date -Date $UploadDateTime -Format 'yyyy-MM-dd'
     $VideoURL = $Video.webpage_url
+    $VideoID = $Video.webpage_url.Split("=")[1]
 
     $DescriptionLines = $Video.description.Split([Environment]::NewLine)
 
@@ -20,17 +20,19 @@ title: `"$($PostTitle)`"
 date: $($PostDate) 00:00:00 -0000
 categories:
 ---
+
+<iframe loading=`"lazy`" width=`"560`" height=`"315`" src=`"https://www.youtube.com/embed/$($VideoID)`" title=`"YouTube video player`" frameborder=`"0`" allow=`"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture`" allowfullscreen></iframe>
 "
-    
-
-
     $OutputLines = foreach($Line in $DescriptionLines) {
+        if($Line -eq 'Visit our websites and social media for more or to get in touch with us') {
+            break
+        }
+        
         $seconds = $null
         $time = $null
         [int]$a = 0
         $time = $Line.Split(' ')[0]
             if($time.Contains(":") -and ([int]::TryParse($time.Split(':')[0], [ref]$a))) {
-                write-host "$($time)"
                 $seconds = switch($time.Length)
                 {
                     4 {
@@ -58,19 +60,24 @@ categories:
             }
 
             $NewOutputLine = $Line
-            $URLs = $NewOutputLine.Split(" ") | select-string -pattern '\b(?:(?:https?|ftp|file)://|www\.|ftp\.)(?:\([-A-Z0-9+&@#/%=~_|$?!:,.]*\)|[-A-Z0-9+&@#/%=~_|$?!:,.])*(?:\([-A-Z0-9+&@#/%=~_|$?!:,.]*\)|[A-Z0-9+&@#/%=~_|$])' | % { $_.Matches } | % { $_.Value }
-            foreach($URL in $URLs) {
-                $NewOutputLine = $NewOutputLine.Replace("$($URL)",("[{0}]" -f $URL))
-            }
+            #not needed since markdown handles hyperlinks by default
+            #$URLs = $NewOutputLine.Split(" ") | select-string -pattern '\b(?:(?:https?|ftp|file)://|www\.|ftp\.)(?:\([-A-Z0-9+&@#/%=~_|$?!:,.]*\)|[-A-Z0-9+&@#/%=~_|$?!:,.])*(?:\([-A-Z0-9+&@#/%=~_|$?!:,.]*\)|[A-Z0-9+&@#/%=~_|$])' | % { $_.Matches } | % { $_.Value }
+            #foreach($URL in $URLs) {
+            #    $NewOutputLine = $NewOutputLine.Replace("$($URL)",("[{0}]" -f $URL))
+            #}
 
-            if($seconds -ne $null -and $time -ne $null) {
+            if($null -ne $seconds -and $null -ne $time) {
                 $NewOutputLine = $NewOutputLine.Replace("$($time)", ("[{0}]({1}&t={2}s)" -f $time, $VideoURL, $seconds))
             }
-            if($NewOutputLine.StartsWith(' ')) {
-                $NewOutputLine.Replace("             ","   - ")
+            
+            if($null -eq $NewOutputLine -or $NewOutputLine -eq '') {
+                $NewOutputLine.Trim()
+            }
+            elseif($NewOutputLine.StartsWith(' ')) {
+                $NewOutputLine.Replace("             ","   - ").Trim()
             }
             else {
-                " * " + $NewOutputLine
+                " * " + $NewOutputLine.Trim()
             }
     }
 

@@ -5,13 +5,15 @@ date: 2020-06-01 00:00:00 -0000
 categories:
 ---
 
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/f4klwWewXe0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
  * Microsoft Intune Program Manager Matt Shadbolt joins us to give a deep dive into the new Endpoint Security features in Intune and ConfigMgr Tenant Attach security features.
- * 
+
  * Matt Shadbolt - Microsoft Program Manger - Microsoft Endpoint Manager - Intune
- * [https://twitter.com/ConfigMgrDogs]
- * [https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/180368]
- * [https://docs.microsoft.com/en-us/archive/blogs/configmgrdogs/]
- * 
+ * https://twitter.com/ConfigMgrDogs
+ * https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/180368
+ * https://docs.microsoft.com/en-us/archive/blogs/configmgrdogs/
+
  * [00:00](https://www.youtube.com/watch?v=f4klwWewXe0&t=0s) - Intro
  * [00:57](https://www.youtube.com/watch?v=f4klwWewXe0&t=57s) - Matt Shadbolt's introduction
  * [05:46](https://www.youtube.com/watch?v=f4klwWewXe0&t=346s) - Microsoft Endpoint security stack
@@ -35,24 +37,6 @@ categories:
  * [1:05:36](https://www.youtube.com/watch?v=f4klwWewXe0&t=396s) - Endpoint detection and response
  * [1:17:00](https://www.youtube.com/watch?v=f4klwWewXe0&t=1080s) - Questions
  * [1:33:00](https://www.youtube.com/watch?v=f4klwWewXe0&t=2040s) - Unified endpoint security using Microsoft Endpoint Manager
-   -    [https://techcommunity.microsoft.com/t5/microsoft-endpoint-manager-blog/unified-endpoint-security-using-microsoft-endpoint-manager/ba-p/1417736]
- * [1:34:01](https://www.youtube.com/watch?v=f4klwWewXe0&t=2101s) - Wrap-up 
- * 
- * Visit our websites and social media for more or to get in touch with us
- * 
- * Steve Hosking - Microsoft EM+S MVP
- * [https://www.twitter.com/OnPremCloudGuy]
- * [http://steven.hosking.com.au/]
- * [https://mvp.microsoft.com/en-us/PublicProfile/5002537?fullName=Steven%20Hosking]
- * [https://github.com/onpremcloudguy]
- * 
- * Adam Gross - Microsoft EM MVP
- * [https://www.twitter.com/AdamGrossTX]
- * [https://www.asquaredozen.com]
- * [https://github.com/AdamGrossTX]
- * [https://mvp.microsoft.com/en-us/PublicProfile/5003519?fullName=Adam%20Gross]
- * 
- * Ben Reader
- * [https://twitter.com/powers_hell]
- * [https://www.powers-hell.com/]
- * [https://github.com/tabs-not-spaces]
+-    https://techcommunity.microsoft.com/t5/microsoft-endpoint-manager-blog/unified-endpoint-security-using-microsoft-endpoint-manager/ba-p/1417736
+ * [1:34:01](https://www.youtube.com/watch?v=f4klwWewXe0&t=2101s) - Wrap-up
+
