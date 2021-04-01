@@ -1,0 +1,22 @@
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content={{ site.theme_color | default: '#ffffff' }}>
+    <meta
+  name="description"
+  content="Intune.Training Blog">
+    <!-- <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/app.css" rel="preload">   -->
+    <!-- <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/app.css" rel="preload" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="{{ site.baseurl }}/assets/css/app.css"></noscript> -->
+    <link rel="shortcut icon" type="image/png"
+          {% if site.favicon %} href="{{ site.favicon | relative_url }}" {% else %} href="{{ site.baseurl }}/favicon.png" {% endif %}
+    />
+    <!-- <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.8.0/dist/alpine.min.js" defer async></script> -->
+    <title>
+      {% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}
+    </title>
+    {% unless site.hide_share_buttons %}
+
+    {% endunless %}
+    {%- include head-scripts.html -%}
+</head>
