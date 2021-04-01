@@ -24,14 +24,16 @@ categories:
 <iframe loading=`"lazy`" width=`"560`" height=`"315`" src=`"https://www.youtube.com/embed/$($VideoID)`" title=`"YouTube video player`" frameborder=`"0`" allow=`"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture`" allowfullscreen></iframe>
 "
     $OutputLines = foreach($Line in $DescriptionLines) {
+        $TimeStamps = $False
+        
         if($Line -eq 'Visit our websites and social media for more or to get in touch with us') {
             break
         }
-        
         $seconds = $null
         $time = $null
         [int]$a = 0
         $time = $Line.Split(' ')[0]
+
             if($time.Contains(":") -and ([int]::TryParse($time.Split(':')[0], [ref]$a))) {
                 $seconds = switch($time.Length)
                 {
@@ -67,17 +69,14 @@ categories:
             #}
 
             if($null -ne $seconds -and $null -ne $time) {
-                $NewOutputLine = $NewOutputLine.Replace("$($time)", ("[{0}]({1}&t={2}s)" -f $time, $VideoURL, $seconds))
+                $NewOutputLine = " * " + $NewOutputLine.Replace("$($time)", ("[{0}]({1}&t={2}s)" -f $time, $VideoURL, $seconds)).Trim()
             }
             
-            if($null -eq $NewOutputLine -or $NewOutputLine -eq '') {
+            if($null -ne $NewOutputLine -or $NewOutputLine -eq '') {
                 $NewOutputLine.Trim()
             }
             elseif($NewOutputLine.StartsWith(' ')) {
                 $NewOutputLine.Replace("             ","   - ").Trim()
-            }
-            else {
-                " * " + $NewOutputLine.Trim()
             }
     }
 
