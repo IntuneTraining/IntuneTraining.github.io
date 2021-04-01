@@ -6,7 +6,6 @@ categories:
 ---
 
 <iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/OkeUN-tdfqs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<<<<<<< HEAD
 
  * CHECK OUT OUR UPDATED VIDEO HERE https://youtu.be/OYaDWKqg1uY
 
@@ -41,5 +40,3 @@ categories:
  * Companion Guide:
  * https://www.sysmansquad.com/2019/12/18/intune-autopilot-setup-companion-guide-part-1/
 
-=======
->>>>>>> 099f1ed45f0866e63d6cff1ba62305c690481f11
