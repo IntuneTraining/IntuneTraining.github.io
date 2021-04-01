@@ -23,30 +23,3 @@ layout: default
       <a href="{{ post.url }}"><img src="{{ post.header }}{{ post.coverImage }}"></a><br>	
     {{ content }}
 </div>
-
-<div class="footer-row">
-  <div class="footer-column">  
-    <p>
-      <strong>Tags</strong>
-    </p>
-    <div class="tags">
-    {% for tag in page.tags %}
-      <!-- {% include tag.html tag=tag %} -->
-    {% endfor %}
-  </div>
-</div>
-  <div class="footer-column">
-    <!-- {% include share-buttons.html %} -->
-  </div>
-</div>
-
-<!-- {% include prev_next_post.html %} -->
-
-<!-- {% include gitHubLink.html %} -->
-<!-- {% include disqus.html %} -->
-<!-- {% include analytics.html %} -->
-<!-- {% if site.disqus.shortname %}
-  
-{% endif %}
-{% if site.google_analytics and jekyll.environment == 'production' %}
-{% endif %} -->
