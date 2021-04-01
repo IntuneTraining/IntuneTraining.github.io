@@ -1,7 +1,52 @@
 ---
 layout: default
 ---
-<h1>{{ page.title }}</h1>
-<p>{{ page.date | date_to_string }} - {{ page.author }}</p>
+<style>
+  .footer-column {
+  float: left;
+  width: 50%;
+}
 
-{{ content }}
+/* Clear floats after the columns */
+.footer-row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+<div class="content">
+
+    <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
+      <div class="meta"><span class="icon-list-alt"></span></i> Published {{ page.date | date: '%B %d, %Y' }} by 
+        <span class="icon-user"></span> Intune.Training		
+      </div>	  
+      <a href="{{ post.url }}"><img src="{{ post.header }}{{ post.coverImage }}"></a><br>	
+    {{ content }}
+</div>
+
+<div class="footer-row">
+  <div class="footer-column">  
+    <p>
+      <strong>Tags</strong>
+    </p>
+    <div class="tags">
+    {% for tag in page.tags %}
+      {% include tag.html tag=tag %}
+    {% endfor %}
+  </div>
+</div>
+  <div class="footer-column">
+    {% include share-buttons.html %}
+  </div>
+</div>
+
+{% include prev_next_post.html %}
+
+{% include gitHubLink.html %}
+<!-- {% include disqus.html %} -->
+{% include analytics.html %}
+<!-- {% if site.disqus.shortname %}
+  
+{% endif %}
+{% if site.google_analytics and jekyll.environment == 'production' %}
+{% endif %} -->
