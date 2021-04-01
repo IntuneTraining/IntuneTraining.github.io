@@ -42,7 +42,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-paginate
   
-hero_image:
+hero_image: /assets/images/hero.webp
 defaults:
   -
     scope:
