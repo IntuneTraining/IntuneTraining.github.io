@@ -17,22 +17,22 @@ Microsoft released a new Web protection feature on securitycenter.microsoft.com 
 * [06:24](https://www.youtube.com/watch?v=a2ixEGD-jus&t=384s) - Create web content filtering policy
 * [08:43](https://www.youtube.com/watch?v=a2ixEGD-jus&t=523s) - Create machine group
 * [11:26](https://www.youtube.com/watch?v=a2ixEGD-jus&t=686s) - Web content filtering with Microsoft Defender ATP now in public preview
-https://techcommunity.microsoft.com/t5/microsoft-defender-atp/web-content-filtering-with-microsoft-defender-atp-now-in-public/ba-p/1132287
+(https://techcommunity.microsoft.com/t5/microsoft-defender-atp/web-content-filtering-with-microsoft-defender-atp-now-in-public/ba-p/1132287) [https://techcommunity.microsoft.com/t5/microsoft-defender-atp/web-content-filtering-with-microsoft-defender-atp-now-in-public/ba-p/1132287]
 * [14:03](https://www.youtube.com/watch?v=a2ixEGD-jus&t=843s) - Web content filtering
-https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/web-content-filtering
+(https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/web-content-filtering) [https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/web-content-filtering]
 * [20:53](https://www.youtube.com/watch?v=a2ixEGD-jus&t=1253s) - Wrap-up
 
 Update: 7th July 2020
 Web content filtering is now included with a Microsoft Defender ATP license.
-https://techcommunity.microsoft.com/t5/microsoft-defender-atp/an-update-on-web-content-filtering/ba-p/1505445
+(https://techcommunity.microsoft.com/t5/microsoft-defender-atp/an-update-on-web-content-filtering/ba-p/1505445) [https://techcommunity.microsoft.com/t5/microsoft-defender-atp/an-update-on-web-content-filtering/ba-p/1505445]
 
 Looks like we might have forgotten to enable network protection which can be done either by policy from the Microsoft Defender ATP security baseline or the endpoint protection configuration profile. You can also do this using PowerShell with the following command:
 Set-MpPreference -EnableNetworkProtection Enabled
-https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/enable-network-protection
-https://docs.microsoft.com/mem/intune/protect/security-baseline-settings-defender-atp?pivots=atp-april-2020#microsoft-defender
+(https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/enable-network-protection) [https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/enable-network-protection]
+(https://docs.microsoft.com/mem/intune/protect/security-baseline-settings-defender-atp?pivots=atp-april-2020#microsoft-defender) [https://docs.microsoft.com/mem/intune/protect/security-baseline-settings-defender-atp?pivots=atp-april-2020#microsoft-defender]
 
 Nice blog post on this:
-https://emptydc.com/2020/01/27/block-it/
+(https://emptydc.com/2020/01/27/block-it/) [https://emptydc.com/2020/01/27/block-it/]
 
 Prerequisites
 Before trying out this feature, make sure you have the following:

@@ -8,8 +8,8 @@ categories:
 <iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/fOnbNRb4i30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Special Guest Jeff Gilbert - Senior Customer Engineer, Azure & Endpoint Management, Microsoft
-https://www.jeffgilb.com/blog/
-https://docs.microsoft.com/en-us/mem/intune/protect/microsoft-tunnel-overview
+(https://www.jeffgilb.com/blog/) [https://www.jeffgilb.com/blog/]
+(https://docs.microsoft.com/en-us/mem/intune/protect/microsoft-tunnel-overview) [https://docs.microsoft.com/en-us/mem/intune/protect/microsoft-tunnel-overview]
 
 * [00:00](https://www.youtube.com/watch?v=fOnbNRb4i30&t=0s) - Intro
 * [02:45](https://www.youtube.com/watch?v=fOnbNRb4i30&t=165s) - Microsoft Tunnel overview

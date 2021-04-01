@@ -9,13 +9,13 @@ categories:
 
 * [00:00](https://www.youtube.com/watch?v=kIymEOBA7nQ&t=0s) - Intro
 * [03:10](https://www.youtube.com/watch?v=kIymEOBA7nQ&t=190s) - Recap of episode 34
-https://youtu.be/MVyGn35zoT4
+(https://youtu.be/MVyGn35zoT4) [https://youtu.be/MVyGn35zoT4]
 * [05:00](https://www.youtube.com/watch?v=kIymEOBA7nQ&t=300s) - Creating the flow
 * [11:58](https://www.youtube.com/watch?v=kIymEOBA7nQ&t=718s) - Power Automate discussion
 * [19:29](https://www.youtube.com/watch?v=kIymEOBA7nQ&t=1169s) - Testing the flow
 * [24:06](https://www.youtube.com/watch?v=kIymEOBA7nQ&t=1446s) - Deploying client data collection script
 * [25:31](https://www.youtube.com/watch?v=kIymEOBA7nQ&t=1531s) - macOS shell scripts
-https://docs.microsoft.com/mem/intune/apps/macos-shell-scripts
+(https://docs.microsoft.com/mem/intune/apps/macos-shell-scripts) [https://docs.microsoft.com/mem/intune/apps/macos-shell-scripts]
 * [28:48](https://www.youtube.com/watch?v=kIymEOBA7nQ&t=1728s) - Power Automate licensing
 * [30:12](https://www.youtube.com/watch?v=kIymEOBA7nQ&t=1812s) - Wrapping up
 

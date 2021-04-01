@@ -22,17 +22,17 @@ Steve and Adam have a chat with Dune Desormeaux, Program Manager for Microsoft E
 * [36:28](https://www.youtube.com/watch?v=W5lOzV77bHI&t=2188s) - Wrapping up
 
 TK01 - Microsoft 365: The World’s Productivity Cloud - Start at 41:00
-https://myignite.techcommunity.microsoft.com/sessions/81152?source=sessions
+(https://myignite.techcommunity.microsoft.com/sessions/81152?source=sessions) [https://myignite.techcommunity.microsoft.com/sessions/81152?source=sessions]
 
 BRK2082 - What's new in Microsoft Endpoint Manager, including Microsoft Intune and Configuration Manager (Part 1 of 2)
-https://myignite.techcommunity.microsoft.com/sessions/81685?source=sessions
+(https://myignite.techcommunity.microsoft.com/sessions/81685?source=sessions) [https://myignite.techcommunity.microsoft.com/sessions/81685?source=sessions]
 
 BRK3220 - What's new in Microsoft Endpoint Manager, including Microsoft Intune and Configuration Manager (Part 2 of 2)
-https://myignite.techcommunity.microsoft.com/sessions/83532
+(https://myignite.techcommunity.microsoft.com/sessions/83532) [https://myignite.techcommunity.microsoft.com/sessions/83532]
 
 BRK008 - Modern management: How/why you do it now
-https://myignite.techcommunity.microsoft.com/sessions/81268?source=sessions
+(https://myignite.techcommunity.microsoft.com/sessions/81268?source=sessions) [https://myignite.techcommunity.microsoft.com/sessions/81268?source=sessions]
 
 DEP40 - Supercharge PC and mobile device management: Attach Configuration Manager to Microsoft Intune and the Microsoft 365 cloud
-https://myignite.techcommunity.microsoft.com/sessions/81674?source=sessions
+(https://myignite.techcommunity.microsoft.com/sessions/81674?source=sessions) [https://myignite.techcommunity.microsoft.com/sessions/81674?source=sessions]
 

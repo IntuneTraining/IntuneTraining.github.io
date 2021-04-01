@@ -63,10 +63,10 @@ categories:
 
             $NewOutputLine = $Line
             #not needed since markdown handles hyperlinks by default
-            #$URLs = $NewOutputLine.Split(" ") | select-string -pattern '\b(?:(?:https?|ftp|file)://|www\.|ftp\.)(?:\([-A-Z0-9+&@#/%=~_|$?!:,.]*\)|[-A-Z0-9+&@#/%=~_|$?!:,.])*(?:\([-A-Z0-9+&@#/%=~_|$?!:,.]*\)|[A-Z0-9+&@#/%=~_|$])' | % { $_.Matches } | % { $_.Value }
-            #foreach($URL in $URLs) {
-            #    $NewOutputLine = $NewOutputLine.Replace("$($URL)",("[{0}]" -f $URL))
-            #}
+            $URLs = $NewOutputLine.Split(" ") | select-string -pattern '\b(?:(?:https?|ftp|file)://|www\.|ftp\.)(?:\([-A-Z0-9+&@#/%=~_|$?!:,.]*\)|[-A-Z0-9+&@#/%=~_|$?!:,.])*(?:\([-A-Z0-9+&@#/%=~_|$?!:,.]*\)|[A-Z0-9+&@#/%=~_|$])' | % { $_.Matches } | % { $_.Value }
+            foreach($URL in $URLs) {
+                $NewOutputLine = $NewOutputLine.Replace("$($URL)",("({0}) [{0}]" -f $URL))
+            }
 
             if($null -ne $seconds -and $null -ne $time) {
                 $NewOutputLine = " * " + $NewOutputLine.Replace("$($time)", ("[{0}]({1}&t={2}s)" -f $time, $VideoURL, $seconds)).Trim()

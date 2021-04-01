@@ -9,14 +9,14 @@ categories:
 
 * [00:00](https://www.youtube.com/watch?v=Mr0tsvYTMa0&t=0s) - Intro
 * [01:30](https://www.youtube.com/watch?v=Mr0tsvYTMa0&t=90s) - S01E08 - Configuring Conditional Access in Microsoft Intune
-https://youtu.be/yI3PDQHaAp8
+(https://youtu.be/yI3PDQHaAp8) [https://youtu.be/yI3PDQHaAp8]
 * [02:52](https://www.youtube.com/watch?v=Mr0tsvYTMa0&t=172s) - What is Conditional Access?
-https://docs.microsoft.com/azure/active-directory/conditional-access/overview
+(https://docs.microsoft.com/azure/active-directory/conditional-access/overview) [https://docs.microsoft.com/azure/active-directory/conditional-access/overview]
 * [05:18](https://www.youtube.com/watch?v=Mr0tsvYTMa0&t=318s) - Building a Conditional Access policy
-https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policies
+(https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policies) [https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policies]
 * [15:10](https://www.youtube.com/watch?v=Mr0tsvYTMa0&t=910s) - MAM configuration
 * [15:34](https://www.youtube.com/watch?v=Mr0tsvYTMa0&t=934s) - Creating a App Protection policy
-https://docs.microsoft.com/mem/intune/apps/app-protection-policy
+(https://docs.microsoft.com/mem/intune/apps/app-protection-policy) [https://docs.microsoft.com/mem/intune/apps/app-protection-policy]
 * [16:07](https://www.youtube.com/watch?v=Mr0tsvYTMa0&t=967s) - Apps settings
 * [19:40](https://www.youtube.com/watch?v=Mr0tsvYTMa0&t=1180s) - Data protection settings
 * [30:16](https://www.youtube.com/watch?v=Mr0tsvYTMa0&t=1816s) - Access requirements settings

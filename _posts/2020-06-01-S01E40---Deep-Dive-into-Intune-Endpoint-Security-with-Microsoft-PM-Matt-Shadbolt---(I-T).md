@@ -10,9 +10,9 @@ categories:
 Microsoft Intune Program Manager Matt Shadbolt joins us to give a deep dive into the new Endpoint Security features in Intune and ConfigMgr Tenant Attach security features.
 
 Matt Shadbolt - Microsoft Program Manger - Microsoft Endpoint Manager - Intune
-https://twitter.com/ConfigMgrDogs
-https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/180368
-https://docs.microsoft.com/en-us/archive/blogs/configmgrdogs/
+(https://twitter.com/ConfigMgrDogs) [https://twitter.com/ConfigMgrDogs]
+(https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/180368) [https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/180368]
+(https://docs.microsoft.com/en-us/archive/blogs/configmgrdogs/) [https://docs.microsoft.com/en-us/archive/blogs/configmgrdogs/]
 
 * [00:00](https://www.youtube.com/watch?v=f4klwWewXe0&t=0s) - Intro
 * [00:57](https://www.youtube.com/watch?v=f4klwWewXe0&t=57s) - Matt Shadbolt's introduction
@@ -37,6 +37,6 @@ https://docs.microsoft.com/en-us/archive/blogs/configmgrdogs/
 * [1:05:36](https://www.youtube.com/watch?v=f4klwWewXe0&t=396s) - Endpoint detection and response
 * [1:17:00](https://www.youtube.com/watch?v=f4klwWewXe0&t=1080s) - Questions
 * [1:33:00](https://www.youtube.com/watch?v=f4klwWewXe0&t=2040s) - Unified endpoint security using Microsoft Endpoint Manager
-https://techcommunity.microsoft.com/t5/microsoft-endpoint-manager-blog/unified-endpoint-security-using-microsoft-endpoint-manager/ba-p/1417736
+(https://techcommunity.microsoft.com/t5/microsoft-endpoint-manager-blog/unified-endpoint-security-using-microsoft-endpoint-manager/ba-p/1417736) [https://techcommunity.microsoft.com/t5/microsoft-endpoint-manager-blog/unified-endpoint-security-using-microsoft-endpoint-manager/ba-p/1417736]
 * [1:34:01](https://www.youtube.com/watch?v=f4klwWewXe0&t=2101s) - Wrap-up
 

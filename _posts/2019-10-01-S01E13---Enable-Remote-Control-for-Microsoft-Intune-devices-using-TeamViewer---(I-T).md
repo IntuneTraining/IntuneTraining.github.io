@@ -9,7 +9,7 @@ categories:
 
 * [00:00](https://www.youtube.com/watch?v=u1vLxclnxsI&t=0s) - Intro
 * [01:16](https://www.youtube.com/watch?v=u1vLxclnxsI&t=76s) - Use TeamViewer to remotely administer Intune devices
-https://docs.microsoft.com/mem/intune/remote-actions/teamviewer-support
+(https://docs.microsoft.com/mem/intune/remote-actions/teamviewer-support) [https://docs.microsoft.com/mem/intune/remote-actions/teamviewer-support]
 * [05:56](https://www.youtube.com/watch?v=u1vLxclnxsI&t=356s) - TeamViewer Host Installer
 * [10:38](https://www.youtube.com/watch?v=u1vLxclnxsI&t=638s) - Initiate New Remote Assistance Session
 * [15:00](https://www.youtube.com/watch?v=u1vLxclnxsI&t=900s) - User Account Control

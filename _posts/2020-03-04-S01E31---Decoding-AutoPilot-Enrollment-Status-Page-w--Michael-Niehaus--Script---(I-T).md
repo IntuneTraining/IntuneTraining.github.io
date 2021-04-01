@@ -16,13 +16,13 @@ categories:
 * [23:45](https://www.youtube.com/watch?v=mG6JQNHvEWs&t=1425s) - Recap
 
 Michael Niehaus' ESP Blogs
-https://oofhours.com/2020/02/17/what-happened-during-windows-autopilot-esp-decode-it/
-https://oofhours.com/2020/02/24/more-autopilot-esp-information/
-https://oofhours.com/2020/02/19/p-s-a-powershell-conundrum/
+(https://oofhours.com/2020/02/17/what-happened-during-windows-autopilot-esp-decode-it/) [https://oofhours.com/2020/02/17/what-happened-during-windows-autopilot-esp-decode-it/]
+(https://oofhours.com/2020/02/24/more-autopilot-esp-information/) [https://oofhours.com/2020/02/24/more-autopilot-esp-information/]
+(https://oofhours.com/2020/02/19/p-s-a-powershell-conundrum/) [https://oofhours.com/2020/02/19/p-s-a-powershell-conundrum/]
 
 The script on PowerShell Gallery
-https://www.powershellgallery.com/packages/Get-AutopilotESPStatus
+(https://www.powershellgallery.com/packages/Get-AutopilotESPStatus) [https://www.powershellgallery.com/packages/Get-AutopilotESPStatus]
 
-Bruce Sa's script - https://github.com/brucesa85/AutoPilot/blob/master/Get-AutoPilotESP.ps1
-https://twitter.com/BruceSaaaa
+Bruce Sa's script - (https://github.com/brucesa85/AutoPilot/blob/master/Get-AutoPilotESP.ps1) [https://github.com/brucesa85/AutoPilot/blob/master/Get-AutoPilotESP.ps1]
+(https://twitter.com/BruceSaaaa) [https://twitter.com/BruceSaaaa]
 

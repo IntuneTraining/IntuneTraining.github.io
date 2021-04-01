@@ -16,16 +16,16 @@ Join Steve and Adam as they chat with Ben and Leon from the UK about their real 
 * [16:41](https://www.youtube.com/watch?v=rG5gemDoZAs&t=1001s) - Intune discussion
 * [23:20](https://www.youtube.com/watch?v=rG5gemDoZAs&t=1400s) - Autopilot discussion
 * [33:25](https://www.youtube.com/watch?v=rG5gemDoZAs&t=2005s) - East of England Microsoft User Group
-https://twitter.com/eoemug
+(https://twitter.com/eoemug) [https://twitter.com/eoemug]
 * [43:30](https://www.youtube.com/watch?v=rG5gemDoZAs&t=2610s) - Microsoft Endpoint Manager community
 * [47:50](https://www.youtube.com/watch?v=rG5gemDoZAs&t=2870s) - Wrapping up
 
 Our Guests
 Ben Whitmore
-https://byteben.com/bb/
-https://twitter.com/byteben
+(https://byteben.com/bb/) [https://byteben.com/bb/]
+(https://twitter.com/byteben) [https://twitter.com/byteben]
 
 Leon Ashton-Leatherland
-https://leonashtonleatherland.blogspot.com/
-https://twitter.com/LeonAshtonL1983
+(https://leonashtonleatherland.blogspot.com/) [https://leonashtonleatherland.blogspot.com/]
+(https://twitter.com/LeonAshtonL1983) [https://twitter.com/LeonAshtonL1983]
 

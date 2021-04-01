@@ -10,11 +10,11 @@ categories:
 * [00:00](https://www.youtube.com/watch?v=7OKAvGjJ4lM&t=0s) - Intro
 * [02:29](https://www.youtube.com/watch?v=7OKAvGjJ4lM&t=149s) - REST Client VS Code extension
 * [03:17](https://www.youtube.com/watch?v=7OKAvGjJ4lM&t=197s) - GitHub repository
-https://github.com/tabs-not-spaces/VSCode_RestClient_Demo
+(https://github.com/tabs-not-spaces/VSCode_RestClient_Demo) [https://github.com/tabs-not-spaces/VSCode_RestClient_Demo]
 * [05:50](https://www.youtube.com/watch?v=7OKAvGjJ4lM&t=350s) - .localenv file
 * [07:29](https://www.youtube.com/watch?v=7OKAvGjJ4lM&t=449s) - Run Task: Generate Bearer Token
 * [08:13](https://www.youtube.com/watch?v=7OKAvGjJ4lM&t=493s) - Installing MSAL module
-https://docs.microsoft.com/en-us/azure/active-directory/develop/msal-overview
+(https://docs.microsoft.com/en-us/azure/active-directory/develop/msal-overview) [https://docs.microsoft.com/en-us/azure/active-directory/develop/msal-overview]
 * [12:11](https://www.youtube.com/watch?v=7OKAvGjJ4lM&t=731s) - Terminal: Select Default Shell
 * [13:10](https://www.youtube.com/watch?v=7OKAvGjJ4lM&t=790s) - Device login
 * [15:38](https://www.youtube.com/watch?v=7OKAvGjJ4lM&t=938s) - Rest Client: Switch Environment
