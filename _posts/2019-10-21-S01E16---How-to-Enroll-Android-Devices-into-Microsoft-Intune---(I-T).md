@@ -8,16 +8,16 @@ categories:
  * The audio was bad in this one. Sorry. Check out our new video on Androids here:
  * [https://www.youtube.com/watch?v=tQ4qt-4CGRY]
  * 
- * 00:00 - Intro
- * 01:40 - MDM discussion
- * 03:12 - Enroll Android devices
+ * [00:00](https://www.youtube.com/watch?v=D_GvmxnA0kM&t=0s) - Intro
+ * [01:40](https://www.youtube.com/watch?v=D_GvmxnA0kM&t=100s) - MDM discussion
+ * [03:12](https://www.youtube.com/watch?v=D_GvmxnA0kM&t=192s) - Enroll Android devices
    - [https://docs.microsoft.com/en-us/mem/intune/enrollment/android-enroll]
- * 04:46 - Set up Intune enrollment of Android Enterprise fully managed devices
+ * [04:46](https://www.youtube.com/watch?v=D_GvmxnA0kM&t=286s) - Set up Intune enrollment of Android Enterprise fully managed devices
    - [https://docs.microsoft.com/en-us/mem/intune/enrollment/android-enroll]
- * 07:57 - Android demo
- * 16:04 - Available device actions
+ * [07:57](https://www.youtube.com/watch?v=D_GvmxnA0kM&t=477s) - Android demo
+ * [16:04](https://www.youtube.com/watch?v=D_GvmxnA0kM&t=964s) - Available device actions
    - [https://docs.microsoft.com/en-us/mem/intune/remote-actions/device-management#available-device-actions]
- * 23:43 - Wrapping up
+ * [23:43](https://www.youtube.com/watch?v=D_GvmxnA0kM&t=1423s) - Wrapping up
  * 
  * Visit our websites and social media for more or to get in touch with us
  * 

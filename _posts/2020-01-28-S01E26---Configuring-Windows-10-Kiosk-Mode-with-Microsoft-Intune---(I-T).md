@@ -7,13 +7,13 @@ categories:
 
  * Steve and Adam cover the basics of configuring Windows 10 Kiosk mode using Microsoft Intune.  
  * 
- * 00:00 - Intro
- * 01:19 - Overview of kiosk mode
- * 02:09 - Configuring single full-screen app kiosks
+ * [00:00](https://www.youtube.com/watch?v=_41uWko2WkE&t=0s) - Intro
+ * [01:19](https://www.youtube.com/watch?v=_41uWko2WkE&t=79s) - Overview of kiosk mode
+ * [02:09](https://www.youtube.com/watch?v=_41uWko2WkE&t=129s) - Configuring single full-screen app kiosks
    - [https://docs.microsoft.com/intune/configuration/kiosk-settings-windows#single-full-screen-app-kiosks]
- * 09:08 - Configuring multi-app kiosks
+ * [09:08](https://www.youtube.com/watch?v=_41uWko2WkE&t=548s) - Configuring multi-app kiosks
    - [https://docs.microsoft.com/intune/configuration/kiosk-settings-windows#multi-app-kiosks]
- * 19:50 - Recap of kiosk mode
+ * [19:50](https://www.youtube.com/watch?v=_41uWko2WkE&t=1190s) - Recap of kiosk mode
  * 
  * Visit our websites and social media for more or to get in touch with us
  * 

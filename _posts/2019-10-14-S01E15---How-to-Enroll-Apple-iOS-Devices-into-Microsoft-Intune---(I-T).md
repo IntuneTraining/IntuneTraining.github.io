@@ -5,16 +5,16 @@ date: 2019-10-14 00:00:00 -0000
 categories:
 ---
 
- * 00:00 - Intro
- * 00:36 - S01E09 - Configuring Apple Push Notification Certificates in Microsoft Intune
+ * [00:00](https://www.youtube.com/watch?v=H55vcG_tzYc&t=0s) - Intro
+ * [00:36](https://www.youtube.com/watch?v=H55vcG_tzYc&t=36s) - S01E09 - Configuring Apple Push Notification Certificates in Microsoft Intune
    - [https://youtu.be/EVbPb9Mu9Og]
- * 01:24 - Get an Apple Automated Device Enrollment token
+ * [01:24](https://www.youtube.com/watch?v=H55vcG_tzYc&t=84s) - Get an Apple Automated Device Enrollment token
    -  [https://docs.microsoft.com/mem/intune/enrollment/device-enrollment-program-enroll-ios#get-an-apple-automated-device-enrollment-token]
- * 02:30 - Create an Apple enrollment profile
+ * [02:30](https://www.youtube.com/watch?v=H55vcG_tzYc&t=150s) - Create an Apple enrollment profile
    -  [https://docs.microsoft.com/mem/intune/enrollment/device-enrollment-program-enroll-ios#create-an-apple-enrollment-profile]
- * 05:18 - Setup Assistant customization
- * 10:17 - iPhone demo
- * 18:45 - Wrapping up
+ * [05:18](https://www.youtube.com/watch?v=H55vcG_tzYc&t=318s) - Setup Assistant customization
+ * [10:17](https://www.youtube.com/watch?v=H55vcG_tzYc&t=617s) - iPhone demo
+ * [18:45](https://www.youtube.com/watch?v=H55vcG_tzYc&t=1125s) - Wrapping up
  * 
  * Visit our websites and social media for more or to get in touch with us
  * 

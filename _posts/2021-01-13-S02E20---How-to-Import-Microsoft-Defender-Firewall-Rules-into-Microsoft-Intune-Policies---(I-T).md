@@ -7,16 +7,16 @@ categories:
 
  * In this video the guys discuss the migrating Microsoft Defender Firewall rules from Group Policy to Microsoft Intune. They cover the basics of using Endpoint Security to set up the basic firewall policy then demo a script that will import configured firewall rules directly into Intune.
  * 
- * 00:00 - Intro
- * 01:20 - Group policy firewall policies 
- * 05:40 - Inture firewall policies
- * 08:09 - S01E40 - Deep Dive into Intune Endpoint Security with Microsoft PM Matt Shadbolt
+ * [00:00](https://www.youtube.com/watch?v=QOrG7YmII_8&t=0s) - Intro
+ * [01:20](https://www.youtube.com/watch?v=QOrG7YmII_8&t=80s) - Group policy firewall policies 
+ * [05:40](https://www.youtube.com/watch?v=QOrG7YmII_8&t=340s) - Inture firewall policies
+ * [08:09](https://www.youtube.com/watch?v=QOrG7YmII_8&t=489s) - S01E40 - Deep Dive into Intune Endpoint Security with Microsoft PM Matt Shadbolt
    -  [https://youtu.be/f4klwWewXe0]
- * 08:50 - Endpoint security firewall policies 
- * 11:35 - Endpoint security firewall rule migration tool
+ * [08:50](https://www.youtube.com/watch?v=QOrG7YmII_8&t=530s) - Endpoint security firewall policies 
+ * [11:35](https://www.youtube.com/watch?v=QOrG7YmII_8&t=695s) - Endpoint security firewall rule migration tool
    -  [https://docs.microsoft.com/mem/intune/protect/endpoint-security-firewall-rule-tool]
- * 23:20 - Migration tool logs
- * 26:25 - Sign off
+ * [23:20](https://www.youtube.com/watch?v=QOrG7YmII_8&t=1400s) - Migration tool logs
+ * [26:25](https://www.youtube.com/watch?v=QOrG7YmII_8&t=1585s) - Sign off
  * 
  * Visit our websites and social media for more or to get in touch with us
  * 

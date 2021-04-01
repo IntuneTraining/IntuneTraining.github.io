@@ -27,8 +27,9 @@ categories:
     $OutputLines = foreach($Line in $DescriptionLines) {
         $seconds = $null
         $time = $null
+        [int]$a = 0
         $time = $Line.Split(' ')[0]
-            if($time.Contains(":") -and ($time.Split(':')[0] -is [int])) {
+            if($time.Contains(":") -and ([int]::TryParse($time.Split(':')[0], [ref]$a))) {
                 write-host "$($time)"
                 $seconds = switch($time.Length)
                 {

@@ -5,22 +5,22 @@ date: 2020-07-21 00:00:00 -0000
 categories:
 ---
 
- * 00:00 - Intro
- * 01:11 - Integrating Intune data warehouse into PowerBI
- * 01:56 - Move to the Microsoft Endpoint Manager admin center
+ * [00:00](https://www.youtube.com/watch?v=2ICPKRBIews&t=0s) - Intro
+ * [01:11](https://www.youtube.com/watch?v=2ICPKRBIews&t=71s) - Integrating Intune data warehouse into PowerBI
+ * [01:56](https://www.youtube.com/watch?v=2ICPKRBIews&t=116s) - Move to the Microsoft Endpoint Manager admin center
    - [https://techcommunity.microsoft.com/t5/intune-customer-success/reminder-move-to-the-microsoft-endpoint-manager-admin-center-for/ba-p/1509565]
- * 02:30 - Microsoft Graph Preview Portal
+ * [02:30](https://www.youtube.com/watch?v=2ICPKRBIews&t=150s) - Microsoft Graph Preview Portal
    - [http://aka.ms/gepreview]
- * 05:50 - Permissions
- * 15:26 - Data warehouse OData feed
- * 21:30 - Creating report
- * 28:50 - Using PowerBI to build custom reports with Intune data
+ * [05:50](https://www.youtube.com/watch?v=2ICPKRBIews&t=350s) - Permissions
+ * [15:26](https://www.youtube.com/watch?v=2ICPKRBIews&t=926s) - Data warehouse OData feed
+ * [21:30](https://www.youtube.com/watch?v=2ICPKRBIews&t=1290s) - Creating report
+ * [28:50](https://www.youtube.com/watch?v=2ICPKRBIews&t=1730s) - Using PowerBI to build custom reports with Intune data
    -  [https://techcommunity.microsoft.com/t5/intune-customer-success/support-tip-using-powerbi-to-build-custom-reports-with-intune/ba-p/294970]
- * 30:05 - Guy in a Cube YouTube Channel
+ * [30:05](https://www.youtube.com/watch?v=2ICPKRBIews&t=1805s) - Guy in a Cube YouTube Channel
    - [https://www.youtube.com/channel/UCFp1vaKzpfvoGai0vE5VJ0w]
- * 32:32 - Finding graph API calls from the portal
- * 36:33 - Desktop Analytics and Log Analytics workspace
- * 39:04 - Wrapping up
+ * [32:32](https://www.youtube.com/watch?v=2ICPKRBIews&t=1952s) - Finding graph API calls from the portal
+ * [36:33](https://www.youtube.com/watch?v=2ICPKRBIews&t=2193s) - Desktop Analytics and Log Analytics workspace
+ * [39:04](https://www.youtube.com/watch?v=2ICPKRBIews&t=2344s) - Wrapping up
  * 
  * Use the Microsoft Intune Data Warehouse
  * [https://docs.microsoft.com/mem/intune/developer/reports-nav-create-intune-reports]

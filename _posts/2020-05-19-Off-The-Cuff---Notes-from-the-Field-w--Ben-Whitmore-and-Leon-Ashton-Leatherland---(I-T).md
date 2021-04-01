@@ -7,16 +7,16 @@ categories:
 
  * Join Steve and Adam as they chat with Ben and Leon from the UK about their real world experiences with managing Intune. Note - there's no demo content, so this is great episode for background listening.
  * 
- * 00:00 - Intro
- * 01:19 - Leon's introduction
- * 02:09 - Ben's introduction
- * 05:50 - Cloud management gateway discussion
- * 16:41 - Intune discussion
- * 23:20 - Autopilot discussion
- * 33:25 - East of England Microsoft User Group
+ * [00:00](https://www.youtube.com/watch?v=rG5gemDoZAs&t=0s) - Intro
+ * [01:19](https://www.youtube.com/watch?v=rG5gemDoZAs&t=79s) - Leon's introduction
+ * [02:09](https://www.youtube.com/watch?v=rG5gemDoZAs&t=129s) - Ben's introduction
+ * [05:50](https://www.youtube.com/watch?v=rG5gemDoZAs&t=350s) - Cloud management gateway discussion
+ * [16:41](https://www.youtube.com/watch?v=rG5gemDoZAs&t=1001s) - Intune discussion
+ * [23:20](https://www.youtube.com/watch?v=rG5gemDoZAs&t=1400s) - Autopilot discussion
+ * [33:25](https://www.youtube.com/watch?v=rG5gemDoZAs&t=2005s) - East of England Microsoft User Group
    - [https://twitter.com/eoemug]
- * 43:30 - Microsoft Endpoint Manager community
- * 47:50 - Wrapping up
+ * [43:30](https://www.youtube.com/watch?v=rG5gemDoZAs&t=2610s) - Microsoft Endpoint Manager community
+ * [47:50](https://www.youtube.com/watch?v=rG5gemDoZAs&t=2870s) - Wrapping up
  * 
  * Our Guests
  * Ben Whitmore

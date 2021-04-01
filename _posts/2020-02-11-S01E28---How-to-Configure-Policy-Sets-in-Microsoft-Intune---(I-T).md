@@ -7,12 +7,12 @@ categories:
 
  * Steve and Adam discuss how to use the new Policy Sets feature in Microsoft Intune to target groups settings/config/policies to devices/users.
  * 
- * 00:00 - Intro
- * 01:17 - Policy sets overview
+ * [00:00](https://www.youtube.com/watch?v=rAkXyx5_6Zg&t=0s) - Intro
+ * [01:17](https://www.youtube.com/watch?v=rAkXyx5_6Zg&t=77s) - Policy sets overview
    -  [https://docs.microsoft.com/intune/fundamentals/policy-sets]
- * 05:40 - Creating policy sets
- * 12:49 - Assigning policy sets discussion
- * 16:38 - Recap
+ * [05:40](https://www.youtube.com/watch?v=rAkXyx5_6Zg&t=340s) - Creating policy sets
+ * [12:49](https://www.youtube.com/watch?v=rAkXyx5_6Zg&t=769s) - Assigning policy sets discussion
+ * [16:38](https://www.youtube.com/watch?v=rAkXyx5_6Zg&t=998s) - Recap
  * 
  * Policy sets known issues
  * [https://docs.microsoft.com/intune/fundamentals/policy-sets#policy-sets-known-issues]

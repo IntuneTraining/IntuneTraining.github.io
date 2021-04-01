@@ -5,16 +5,16 @@ date: 2019-12-10 00:00:00 -0000
 categories:
 ---
 
- * 00:00 - Intro
- * 04:58 - app.yaml file
- * 09:15 - VS Code Command Palette
- * 09:53 - Build & Publish task
- * 15:03 - Microsoft Graph name
- * 23:55 - Tasks explained
- * 31:12 - Creating a simple task
- * 45:10 - Ben's Repo
+ * [00:00](https://www.youtube.com/watch?v=gGgj8AALrgQ&t=0s) - Intro
+ * [04:58](https://www.youtube.com/watch?v=gGgj8AALrgQ&t=298s) - app.yaml file
+ * [09:15](https://www.youtube.com/watch?v=gGgj8AALrgQ&t=555s) - VS Code Command Palette
+ * [09:53](https://www.youtube.com/watch?v=gGgj8AALrgQ&t=593s) - Build & Publish task
+ * [15:03](https://www.youtube.com/watch?v=gGgj8AALrgQ&t=903s) - Microsoft Graph name
+ * [23:55](https://www.youtube.com/watch?v=gGgj8AALrgQ&t=1435s) - Tasks explained
+ * [31:12](https://www.youtube.com/watch?v=gGgj8AALrgQ&t=1872s) - Creating a simple task
+ * [45:10](https://www.youtube.com/watch?v=gGgj8AALrgQ&t=2710s) - Ben's Repo
    -  [https://github.com/tabs-not-spaces/Intune-App-Deploy]
- * 45:52 - Wrapping up
+ * [45:52](https://www.youtube.com/watch?v=gGgj8AALrgQ&t=2752s) - Wrapping up
  * 
  * Visit our websites and social media for more or to get in touch with us
  * 

@@ -5,20 +5,20 @@ date: 2020-08-18 00:00:00 -0000
 categories:
 ---
 
- * 00:00 - Intro
- * 00:31 - Cathy Moya introduction
- * 05:32 - MVP Program
+ * [00:00](https://www.youtube.com/watch?v=K27D1MDYafc&t=0s) - Intro
+ * [00:31](https://www.youtube.com/watch?v=K27D1MDYafc&t=31s) - Cathy Moya introduction
+ * [05:32](https://www.youtube.com/watch?v=K27D1MDYafc&t=332s) - MVP Program
    - [https://mvp.microsoft.com/]
- * 09:22 - Windows Admins discord channel
+ * [09:22](https://www.youtube.com/watch?v=K27D1MDYafc&t=562s) - Windows Admins discord channel
    - [http://aka.ms/winadmins]
- * 19:10 - Paul Winstanley - Just a Couple of Jerks podcast 
+ * [19:10](https://www.youtube.com/watch?v=K27D1MDYafc&t=1150s) - Paul Winstanley - Just a Couple of Jerks podcast 
    - [https://justacoupleofjerks.com/]
- * 20:33 - Women in Tech and #WomenITPros
- * 32:00 - Customer feedback
- * 41:29 - Community 
- * 45:00 - Cathy Moya's Twitter lists
+ * [20:33](https://www.youtube.com/watch?v=K27D1MDYafc&t=1233s) - Women in Tech and #WomenITPros
+ * [32:00](https://www.youtube.com/watch?v=K27D1MDYafc&t=1920s) - Customer feedback
+ * [41:29](https://www.youtube.com/watch?v=K27D1MDYafc&t=2489s) - Community 
+ * [45:00](https://www.youtube.com/watch?v=K27D1MDYafc&t=2700s) - Cathy Moya's Twitter lists
    - [https://twitter.com/CxPCathy/lists]
- * 48:52 - Wrapping up
+ * [48:52](https://www.youtube.com/watch?v=K27D1MDYafc&t=2932s) - Wrapping up
  * 
  * We had a great time talking with Cathy Moya about Microsoft engages the MEM community through programs designed to help customers get the most from their investments. We also discussed Women IT Pros and how she started a movement to help Women in Tech be accepted into the IT Community.
  * 

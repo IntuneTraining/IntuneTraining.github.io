@@ -5,13 +5,13 @@ date: 2020-03-04 00:00:00 -0000
 categories:
 ---
 
- * 00:00 - Intro
- * 01:11 - Explanation of the script
- * 05:54 - Connect to a VM using PowerShell Direct
- * 13:13 - Result of Get-AutopilotESPStatus -Online
- * 14:33 - Taking a peak at Get-AutopilotESPStatus.ps1
- * 18:57 - Key takeaways
- * 23:45 - Recap
+ * [00:00](https://www.youtube.com/watch?v=mG6JQNHvEWs&t=0s) - Intro
+ * [01:11](https://www.youtube.com/watch?v=mG6JQNHvEWs&t=71s) - Explanation of the script
+ * [05:54](https://www.youtube.com/watch?v=mG6JQNHvEWs&t=354s) - Connect to a VM using PowerShell Direct
+ * [13:13](https://www.youtube.com/watch?v=mG6JQNHvEWs&t=793s) - Result of Get-AutopilotESPStatus -Online
+ * [14:33](https://www.youtube.com/watch?v=mG6JQNHvEWs&t=873s) - Taking a peak at Get-AutopilotESPStatus.ps1
+ * [18:57](https://www.youtube.com/watch?v=mG6JQNHvEWs&t=1137s) - Key takeaways
+ * [23:45](https://www.youtube.com/watch?v=mG6JQNHvEWs&t=1425s) - Recap
  * 
  * Michael Niehaus' ESP Blogs
  * [https://oofhours.com/2020/02/17/what-happened-during-windows-autopilot-esp-decode-it/]

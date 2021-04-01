@@ -10,14 +10,14 @@ categories:
  * We had about 30 folks on the call, too many to list, but here's how you can find the current list of Microsoft Enterprise Mobility MVPs.
  * [https://mvp.microsoft.com/en-us/MvpSearch?ex=Enterprise+Mobility&sc=e]
  * 
- * 00:00 - Intro
- * 00:22 - Feature Updates
- * 06:25 - Autopilot
- * 16:22 - Windows 10 customizations
- * 37:00 - Securing environments 
- * 39:07 - Windows Hello
- * 42:50 - Interns/Feedback/Features
- * 49:40 - WFH 
+ * [00:00](https://www.youtube.com/watch?v=ACp4DVJuuSg&t=0s) - Intro
+ * [00:22](https://www.youtube.com/watch?v=ACp4DVJuuSg&t=22s) - Feature Updates
+ * [06:25](https://www.youtube.com/watch?v=ACp4DVJuuSg&t=385s) - Autopilot
+ * [16:22](https://www.youtube.com/watch?v=ACp4DVJuuSg&t=982s) - Windows 10 customizations
+ * [37:00](https://www.youtube.com/watch?v=ACp4DVJuuSg&t=2220s) - Securing environments 
+ * [39:07](https://www.youtube.com/watch?v=ACp4DVJuuSg&t=2347s) - Windows Hello
+ * [42:50](https://www.youtube.com/watch?v=ACp4DVJuuSg&t=2570s) - Interns/Feedback/Features
+ * [49:40](https://www.youtube.com/watch?v=ACp4DVJuuSg&t=2980s) - WFH 
  * 
  * Visit our websites and social media for more or to get in touch with us
  * 

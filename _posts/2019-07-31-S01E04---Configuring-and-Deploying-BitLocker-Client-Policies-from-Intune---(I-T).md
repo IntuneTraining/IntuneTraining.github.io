@@ -7,19 +7,19 @@ categories:
 
  * Steve and Adam discuss how to configure and deploy BitLocker client policies and set the default wallpaper from Intune.
  * 
- * 00:00 - Intro
- * 01:55 - Take Action to Ensure MSfB Apps deployed through Intune Install on Windows 10 1903
+ * [00:00](https://www.youtube.com/watch?v=IXHjQM8feWM&t=0s) - Intro
+ * [01:55](https://www.youtube.com/watch?v=IXHjQM8feWM&t=115s) - Take Action to Ensure MSfB Apps deployed through Intune Install on Windows 10 1903
    - [https://techcommunity.microsoft.com/t5/Intune-Customer-Success/Support-Tip-Take-Action-to-Ensure-MSfB-Apps-deployed-through/ba-p/658864]
- * 02:58 - Enable TPM on a Hyper-V virtual machine
- * 04:32 - Configure Windows encryption device profile
+ * [02:58](https://www.youtube.com/watch?v=IXHjQM8feWM&t=178s) - Enable TPM on a Hyper-V virtual machine
+ * [04:32](https://www.youtube.com/watch?v=IXHjQM8feWM&t=272s) - Configure Windows encryption device profile
    - [https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption]
- * 17:09 - Configure default wallpaper policy
+ * [17:09](https://www.youtube.com/watch?v=IXHjQM8feWM&t=1029s) - Configure default wallpaper policy
    - [https://docs.microsoft.com/intune/device-restrictions-windows-10#personalization]
- * 20:42 - Assign device profiles in Microsoft Intune
+ * [20:42](https://www.youtube.com/watch?v=IXHjQM8feWM&t=1242s) - Assign device profiles in Microsoft Intune
    - [https://docs.microsoft.com/intune/device-profile-assign]
- * 22:55 - Different ways to initiate a device sync
+ * [22:55](https://www.youtube.com/watch?v=IXHjQM8feWM&t=1375s) - Different ways to initiate a device sync
    - [https://docs.microsoft.com/en-us/intune-user-help/sync-your-device-manually-windows]
- * 28:23 - Recap
+ * [28:23](https://www.youtube.com/watch?v=IXHjQM8feWM&t=1703s) - Recap
  * 
  * Visit our websites and social media for more or to get in touch with us
  * 

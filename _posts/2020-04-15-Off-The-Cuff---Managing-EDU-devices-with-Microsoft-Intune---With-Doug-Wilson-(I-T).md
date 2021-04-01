@@ -12,18 +12,18 @@ categories:
  * [https://managedoug.com/]
  * [https://mvp.microsoft.com/en-us/PublicProfile/5003515?fullName=Doug%20Wilson]
  * 
- * 00:00 - Intro
- * 00:26 - Doug Wilson introduction
+ * [00:00](https://www.youtube.com/watch?v=t-Qr6e8-0GE&t=0s) - Intro
+ * [00:26](https://www.youtube.com/watch?v=t-Qr6e8-0GE&t=26s) - Doug Wilson introduction
    - [https://twitter.com/managedoug]
    - [https://managedoug.com/]
- * 02:40 - Autopilot discussion
- * 06:30 - Strategies for remote workers
- * 09:30 - White glove differences
- * 14:55 - Hybrid management 
- * 21:11 - EDU client management
- * 25:30 - Intune EDU Portal
+ * [02:40](https://www.youtube.com/watch?v=t-Qr6e8-0GE&t=160s) - Autopilot discussion
+ * [06:30](https://www.youtube.com/watch?v=t-Qr6e8-0GE&t=390s) - Strategies for remote workers
+ * [09:30](https://www.youtube.com/watch?v=t-Qr6e8-0GE&t=570s) - White glove differences
+ * [14:55](https://www.youtube.com/watch?v=t-Qr6e8-0GE&t=895s) - Hybrid management 
+ * [21:11](https://www.youtube.com/watch?v=t-Qr6e8-0GE&t=1271s) - EDU client management
+ * [25:30](https://www.youtube.com/watch?v=t-Qr6e8-0GE&t=1530s) - Intune EDU Portal
    - [https://intuneeducation.portal.azure.com/]
- * 33:57 - Wrap-up 
+ * [33:57](https://www.youtube.com/watch?v=t-Qr6e8-0GE&t=2037s) - Wrap-up 
  * 
  * Visit our websites and social media for more or to get in touch with us
  * 

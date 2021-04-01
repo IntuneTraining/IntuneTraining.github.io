@@ -5,21 +5,21 @@ date: 2021-03-29 00:00:00 -0000
 categories:
 ---
 
- * 00:00 - Intro
- * 00:30 - Spencer Shumway introduction
+ * [00:00](https://www.youtube.com/watch?v=lLNdS5ZlHoI&t=0s) - Intro
+ * [00:30](https://www.youtube.com/watch?v=lLNdS5ZlHoI&t=30s) - Spencer Shumway introduction
    - [https://twitter.com/spencershum]
- * 03:25 - Reporting in MEM
- * 06:40 - Reporting the new way
- * 19:36 - Log analytics
- * 31:25 - S02E01 - Easily Create Power BI Reports with the Intune Data Warehouse - (I.T)
+ * [03:25](https://www.youtube.com/watch?v=lLNdS5ZlHoI&t=205s) - Reporting in MEM
+ * [06:40](https://www.youtube.com/watch?v=lLNdS5ZlHoI&t=400s) - Reporting the new way
+ * [19:36](https://www.youtube.com/watch?v=lLNdS5ZlHoI&t=1176s) - Log analytics
+ * [31:25](https://www.youtube.com/watch?v=lLNdS5ZlHoI&t=1885s) - S02E01 - Easily Create Power BI Reports with the Intune Data Warehouse - (I.T)
    - [https://youtu.be/2ICPKRBIews]
- * 31:44 - Paging vs Export
- * 36:54 - Deprecating application inventory in datawarehouse
+ * [31:44](https://www.youtube.com/watch?v=lLNdS5ZlHoI&t=1904s) - Paging vs Export
+ * [36:54](https://www.youtube.com/watch?v=lLNdS5ZlHoI&t=2214s) - Deprecating application inventory in datawarehouse
    - [https://docs.microsoft.com/en-us/mem/intune/fundamentals/in-development#intune-data-warehouse-updates]
    - [https://docs.microsoft.com/en-us/mem/intune/fundamentals/in-development#export-underlying-discovered-apps-list-data]
- * 41:07 - Available reports/data today
- * 45:52 - Roadmap
- * 47:02 - Useful resources
+ * [41:07](https://www.youtube.com/watch?v=lLNdS5ZlHoI&t=2467s) - Available reports/data today
+ * [45:52](https://www.youtube.com/watch?v=lLNdS5ZlHoI&t=2752s) - Roadmap
+ * [47:02](https://www.youtube.com/watch?v=lLNdS5ZlHoI&t=2822s) - Useful resources
    - Initial reporting blog: [https://techcommunity.microsoft.com/t5/intune-customer-success/new-reporting-framework-coming-to-intune/ba-p/1009553]
    - 2009 Reporting Blog Update: [https://techcommunity.microsoft.com/t5/intune-customer-success/microsoft-endpoint-manager-reporting-blog-for-2009-release/ba-p/1685655]
    - 2011 Reporting Blog Update: [https://techcommunity.microsoft.com/t5/intune-customer-success/introducing-new-policy-reports-amp-more-in-microsoft-endpoint/ba-p/1898027]

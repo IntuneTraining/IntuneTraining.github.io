@@ -5,14 +5,14 @@ date: 2020-12-01 00:00:00 -0000
 categories:
 ---
 
- * 00:00 - Intro
- * 04:22 - Microsoft 365 network connectivity test
+ * [00:00](https://www.youtube.com/watch?v=UcL6LIQVmWA&t=0s) - Intro
+ * [04:22](https://www.youtube.com/watch?v=UcL6LIQVmWA&t=262s) - Microsoft 365 network connectivity test
    - [https://connectivity.office.com/]
- * 09:37 - Running the advanced network tests executable
- * 13:30 - Documentation
+ * [09:37](https://www.youtube.com/watch?v=UcL6LIQVmWA&t=577s) - Running the advanced network tests executable
+ * [13:30](https://www.youtube.com/watch?v=UcL6LIQVmWA&t=810s) - Documentation
    - [https://docs.microsoft.com/microsoft-365/enterprise/office-365-network-mac-perf-onboarding-tool]
- * 18:15 - Test results
- * 24:35 - Network and security discussion
+ * [18:15](https://www.youtube.com/watch?v=UcL6LIQVmWA&t=1095s) - Test results
+ * [24:35](https://www.youtube.com/watch?v=UcL6LIQVmWA&t=1475s) - Network and security discussion
  * 
  * 
  * Visit our websites and social media for more or to get in touch with us

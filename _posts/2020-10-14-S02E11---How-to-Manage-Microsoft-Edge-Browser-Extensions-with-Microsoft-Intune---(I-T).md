@@ -5,11 +5,11 @@ date: 2020-10-14 00:00:00 -0000
 categories:
 ---
 
- * 0:00 Intro
- * 0:00 Goofing off for a bit
- * 4:10 Managing Edge Extensions
- * 18:30 Skip this part - Edge Surf Game
- * 19:40 Summary
+ * [0:00](https://www.youtube.com/watch?v=Vf_U6NGz52A&t=0s) Intro
+ * [0:00](https://www.youtube.com/watch?v=Vf_U6NGz52A&t=0s) Goofing off for a bit
+ * [4:10](https://www.youtube.com/watch?v=Vf_U6NGz52A&t=250s) Managing Edge Extensions
+ * [18:30](https://www.youtube.com/watch?v=Vf_U6NGz52A&t=1110s) Skip this part - Edge Surf Game
+ * [19:40](https://www.youtube.com/watch?v=Vf_U6NGz52A&t=1180s) Summary
  * 
  * 
  * 

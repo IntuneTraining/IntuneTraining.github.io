@@ -7,20 +7,20 @@ categories:
 
  * Sorry about Adam's keyboard noise and yes, this could be a very short video but we felt like there are people who could use a more in-depth discussion.
  * 
- * 00:00 - Intro
- * 00:10 - Jóhannes Geir Kristjánsson introduction 
- * 01:10 - Access on-premises resources from an Azure AD-joined device
+ * [00:00](https://www.youtube.com/watch?v=dUJnIakSPkA&t=0s) - Intro
+ * [00:10](https://www.youtube.com/watch?v=dUJnIakSPkA&t=10s) - Jóhannes Geir Kristjánsson introduction 
+ * [01:10](https://www.youtube.com/watch?v=dUJnIakSPkA&t=70s) - Access on-premises resources from an Azure AD-joined device
    - [https://docs.microsoft.com/microsoft-365/business/access-resources]
- * 02:36 - Windows admins discord
+ * [02:36](https://www.youtube.com/watch?v=dUJnIakSPkA&t=156s) - Windows admins discord
    - [http://aka.ms/winadmins]
- * 04:31 - Migration process
- * 06:40 - Blockers
- * 10:24 - Lab environment
- * 15:50 - Install Azure AD Connect
- * 37:57 - Assign licences
- * 52:40 - Enable single sign-on
- * 1:03:38 - Internal websites and certificates
- * 1:09:08 - Wrap up
+ * [04:31](https://www.youtube.com/watch?v=dUJnIakSPkA&t=271s) - Migration process
+ * [06:40](https://www.youtube.com/watch?v=dUJnIakSPkA&t=400s) - Blockers
+ * [10:24](https://www.youtube.com/watch?v=dUJnIakSPkA&t=624s) - Lab environment
+ * [15:50](https://www.youtube.com/watch?v=dUJnIakSPkA&t=950s) - Install Azure AD Connect
+ * [37:57](https://www.youtube.com/watch?v=dUJnIakSPkA&t=2277s) - Assign licences
+ * [52:40](https://www.youtube.com/watch?v=dUJnIakSPkA&t=3160s) - Enable single sign-on
+ * [1:03:38](https://www.youtube.com/watch?v=dUJnIakSPkA&t=278s) - Internal websites and certificates
+ * [1:09:08](https://www.youtube.com/watch?v=dUJnIakSPkA&t=608s) - Wrap up
  * 
  * Visit our websites and social media for more or to get in touch with us
  * 

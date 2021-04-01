@@ -5,9 +5,9 @@ date: 2020-08-10 00:00:00 -0000
 categories:
 ---
 
- * 0:00 Intro
- * 0:42 Ben's Important Demo
- * 2:00 Steve and Adam express their disappointment
+ * [0:00](https://www.youtube.com/watch?v=Ihf97wkVKfM&t=0s) Intro
+ * [0:42](https://www.youtube.com/watch?v=Ihf97wkVKfM&t=42s) Ben's Important Demo
+ * [2:00](https://www.youtube.com/watch?v=Ihf97wkVKfM&t=120s) Steve and Adam express their disappointment
  * 
  * Visit our websites and social media for more or to get in touch with us
  * 
