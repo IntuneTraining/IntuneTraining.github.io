@@ -42,7 +42,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-paginate
   
-hero_image: /assets/images/foxdeployMOUNTAINTOP_hero.webp
+hero_image:
 defaults:
   -
     scope:
