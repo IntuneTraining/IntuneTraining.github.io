@@ -9,17 +9,17 @@ categories:
 
 Steve and Adam have a chat with Dune Desormeaux, Program Manager for Microsoft Endpoint Configuration Manager, at MMSJazz. Sorry, no demos, just a chat with Dune about how the new Microsoft Endpoint Manager changes will impact the future of Intune and ConfigMgr.
 
- * [00:00](https://www.youtube.com/watch?v=W5lOzV77bHI&t=0s) - Intro
- * [00:51](https://www.youtube.com/watch?v=W5lOzV77bHI&t=51s) - Dune Desormeaux's introduction
- * [02:29](https://www.youtube.com/watch?v=W5lOzV77bHI&t=149s) - Re-branding to Microsoft Endpoint Manager
- * [04:15](https://www.youtube.com/watch?v=W5lOzV77bHI&t=255s) - What the brand means
- * [08:41](https://www.youtube.com/watch?v=W5lOzV77bHI&t=521s) - Workloads explained
- * [13:48](https://www.youtube.com/watch?v=W5lOzV77bHI&t=828s) - Web portal discussion
- * [20:48](https://www.youtube.com/watch?v=W5lOzV77bHI&t=1248s) - Delivery Optimization and Microsoft Connected Cache
- * [31:48](https://www.youtube.com/watch?v=W5lOzV77bHI&t=1908s) - Servers in the web portal
- * [33:19](https://www.youtube.com/watch?v=W5lOzV77bHI&t=1999s) - Azure Arc
- * [34:37](https://www.youtube.com/watch?v=W5lOzV77bHI&t=2077s) - New name and abbreviation
- * [36:28](https://www.youtube.com/watch?v=W5lOzV77bHI&t=2188s) - Wrapping up
+- [00:00](https://www.youtube.com/watch?v=W5lOzV77bHI&t=0s) - Intro
+- [00:51](https://www.youtube.com/watch?v=W5lOzV77bHI&t=51s) - Dune Desormeaux's introduction
+- [02:29](https://www.youtube.com/watch?v=W5lOzV77bHI&t=149s) - Re-branding to Microsoft Endpoint Manager
+- [04:15](https://www.youtube.com/watch?v=W5lOzV77bHI&t=255s) - What the brand means
+- [08:41](https://www.youtube.com/watch?v=W5lOzV77bHI&t=521s) - Workloads explained
+- [13:48](https://www.youtube.com/watch?v=W5lOzV77bHI&t=828s) - Web portal discussion
+- [20:48](https://www.youtube.com/watch?v=W5lOzV77bHI&t=1248s) - Delivery Optimization and Microsoft Connected Cache
+- [31:48](https://www.youtube.com/watch?v=W5lOzV77bHI&t=1908s) - Servers in the web portal
+- [33:19](https://www.youtube.com/watch?v=W5lOzV77bHI&t=1999s) - Azure Arc
+- [34:37](https://www.youtube.com/watch?v=W5lOzV77bHI&t=2077s) - New name and abbreviation
+- [36:28](https://www.youtube.com/watch?v=W5lOzV77bHI&t=2188s) - Wrapping up
 
 TK01 - Microsoft 365: The World’s Productivity Cloud - Start at 41:00
 [https://myignite.techcommunity.microsoft.com/sessions/81152?source=sessions](https://myignite.techcommunity.microsoft.com/sessions/81152?source=sessions)

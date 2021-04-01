@@ -11,16 +11,16 @@ Steve and Ben drag Adam trough more security stuff. Adam is thrilled.
 
 Microsoft released a new Web protection feature on securitycenter.microsoft.com which uses the 3rd party Cyren web proxy. This does require an E5 License.
 
- * [00:00](https://www.youtube.com/watch?v=a2ixEGD-jus&t=0s) - Intro
- * [02:29](https://www.youtube.com/watch?v=a2ixEGD-jus&t=149s) - Enable custom network indicators
- * [03:19](https://www.youtube.com/watch?v=a2ixEGD-jus&t=199s) - Connect to a partner
- * [06:24](https://www.youtube.com/watch?v=a2ixEGD-jus&t=384s) - Create web content filtering policy
- * [08:43](https://www.youtube.com/watch?v=a2ixEGD-jus&t=523s) - Create machine group
- * [11:26](https://www.youtube.com/watch?v=a2ixEGD-jus&t=686s) - Web content filtering with Microsoft Defender ATP now in public preview
+- [00:00](https://www.youtube.com/watch?v=a2ixEGD-jus&t=0s) - Intro
+- [02:29](https://www.youtube.com/watch?v=a2ixEGD-jus&t=149s) - Enable custom network indicators
+- [03:19](https://www.youtube.com/watch?v=a2ixEGD-jus&t=199s) - Connect to a partner
+- [06:24](https://www.youtube.com/watch?v=a2ixEGD-jus&t=384s) - Create web content filtering policy
+- [08:43](https://www.youtube.com/watch?v=a2ixEGD-jus&t=523s) - Create machine group
+- [11:26](https://www.youtube.com/watch?v=a2ixEGD-jus&t=686s) - Web content filtering with Microsoft Defender ATP now in public preview
    - [https://techcommunity.microsoft.com/t5/microsoft-defender-atp/web-content-filtering-with-microsoft-defender-atp-now-in-public/ba-p/1132287](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/web-content-filtering-with-microsoft-defender-atp-now-in-public/ba-p/1132287)
- * [14:03](https://www.youtube.com/watch?v=a2ixEGD-jus&t=843s) - Web content filtering
+- [14:03](https://www.youtube.com/watch?v=a2ixEGD-jus&t=843s) - Web content filtering
    - [https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/web-content-filtering](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/web-content-filtering)
- * [20:53](https://www.youtube.com/watch?v=a2ixEGD-jus&t=1253s) - Wrap-up
+- [20:53](https://www.youtube.com/watch?v=a2ixEGD-jus&t=1253s) - Wrap-up
 
 Update: 7th July 2020
 Web content filtering is now included with a Microsoft Defender ATP license.

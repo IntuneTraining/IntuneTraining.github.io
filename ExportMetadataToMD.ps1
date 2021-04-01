@@ -67,7 +67,7 @@ categories:
             }
 
             if($null -ne $seconds -and $null -ne $time) {
-                " * " + $NewOutputLine.Replace("$($time)", ("[{0}]({1}&t={2}s)" -f $time, $VideoURL, $seconds)).Trim()
+                "- " + $NewOutputLine.Replace("$($time)", ("[{0}]({1}&t={2}s)" -f $time, $VideoURL, $seconds)).Trim()
             }
             elseif($NewOutputLine.StartsWith(' ')) {
                 "   - " + $NewOutputLine.Trim()

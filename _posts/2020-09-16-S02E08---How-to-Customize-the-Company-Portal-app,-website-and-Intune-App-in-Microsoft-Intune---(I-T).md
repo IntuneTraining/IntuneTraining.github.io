@@ -7,16 +7,16 @@ categories:
 
 <iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/VdZOmUkTHnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
- * [00:00](https://www.youtube.com/watch?v=VdZOmUkTHnw&t=0s) - Intro
- * [01:10](https://www.youtube.com/watch?v=VdZOmUkTHnw&t=70s) - Azure AD company branding
+- [00:00](https://www.youtube.com/watch?v=VdZOmUkTHnw&t=0s) - Intro
+- [01:10](https://www.youtube.com/watch?v=VdZOmUkTHnw&t=70s) - Azure AD company branding
    - [https://docs.microsoft.com/azure/active-directory/fundamentals/customize-branding](https://docs.microsoft.com/azure/active-directory/fundamentals/customize-branding)
- * [02:15](https://www.youtube.com/watch?v=VdZOmUkTHnw&t=135s) - Company portal customization
+- [02:15](https://www.youtube.com/watch?v=VdZOmUkTHnw&t=135s) - Company portal customization
    - [https://docs.microsoft.com/mem/intune/apps/company-portal-app](https://docs.microsoft.com/mem/intune/apps/company-portal-app)
- * [06:02](https://www.youtube.com/watch?v=VdZOmUkTHnw&t=362s) - Configure enrollment setting for Android and iOS/iPadOS
- * [06:22](https://www.youtube.com/watch?v=VdZOmUkTHnw&t=382s) - Additional app sources
- * [07:00](https://www.youtube.com/watch?v=VdZOmUkTHnw&t=420s) - Company portal website
+- [06:02](https://www.youtube.com/watch?v=VdZOmUkTHnw&t=362s) - Configure enrollment setting for Android and iOS/iPadOS
+- [06:22](https://www.youtube.com/watch?v=VdZOmUkTHnw&t=382s) - Additional app sources
+- [07:00](https://www.youtube.com/watch?v=VdZOmUkTHnw&t=420s) - Company portal website
    - [https://portal.manage.microsoft.com/](https://portal.manage.microsoft.com/)
- * [17:21](https://www.youtube.com/watch?v=VdZOmUkTHnw&t=1041s) - Wrapping up
+- [17:21](https://www.youtube.com/watch?v=VdZOmUkTHnw&t=1041s) - Wrapping up
 
 From the comments:
 You kind of breezed by the enrollment options at about six minutes in, and I know it's targeted towards the iOS/Android piece which isn't the sexiness of Windows 10 management, but that is the most frequently used setting on this page for deployments.
